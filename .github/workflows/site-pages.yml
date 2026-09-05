@@ -33,6 +33,10 @@ jobs:
           # repo sites are served under /<repo>/, user sites (<user>.github.io)
           # are normalized to "/" by the VitePress config
           MYLEARN_BASE: /${{ github.event.repository.name }}/
+          # canonical origin + <html lang>: enable og/canonical/sitemap/robots
+          # (the custom domain chunl.ai is used at both alias hosts)
+          MYLEARN_SITE_URL: https://chunl.ai
+          MYLEARN_LANG: zh-CN
         run: pnpm exec vitepress build .
       - uses: actions/upload-pages-artifact@v3
         with:
