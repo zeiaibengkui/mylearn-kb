@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788608071654,
+  "updatedAt": 1788655485421,
   "files": {
     "course/高二试题/Explanation.md": {
       "mtimeMs": 1788273772360.7874,
@@ -52,6 +52,22 @@
     "luogu/P5985 [PA 2019] Muzyka pop/problem.md": {
       "mtimeMs": 1788268151824,
       "hash": "1c6b64a4b1057bf63d6318e45667e136f64fbfc3ef05be12be69b5326a48fdc1"
+    },
+    "luogu/P6691 选择题/Explanation.md": {
+      "mtimeMs": 1788655479352.3057,
+      "hash": "94546cf7c34c35266ba9602755af6a3ad23eec2ec5370fe915916c6c33715f42"
+    },
+    "luogu/P6691 选择题/Solution sol.md": {
+      "mtimeMs": 1788655453521.6711,
+      "hash": "ff3c386f2a385ef76425ed305161aed3e879f84aa8d26b7b8ddf1fdcc7d45da8"
+    },
+    "luogu/P6691 选择题/problem.md": {
+      "mtimeMs": 1788655354331.1448,
+      "hash": "60203674007ed52a5584cb1189133b4956a4b405b689a195eb267681f3cb2d0a"
+    },
+    "luogu/P6691 选择题/sol.cpp": {
+      "mtimeMs": 1788655453521.2979,
+      "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
     },
     "notes/示例笔记/嵌套/更深一层.md": {
       "mtimeMs": 1788535343498.8184,
