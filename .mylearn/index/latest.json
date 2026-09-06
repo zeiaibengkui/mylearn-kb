@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788668180191,
+  "updatedAt": 1788669846246,
   "files": {
     "course/高二试题/Explanation.md": {
       "mtimeMs": 1788273772360.7874,
@@ -117,53 +117,61 @@
       "mtimeMs": 1788655453521.2979,
       "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
     },
-    "notes/ML/Data Processing.md": {
-      "mtimeMs": 1788667849738.16,
-      "hash": "9102a607edc364486e4e760c100ac35d24d5e9ee4593b0a576d36fdf9a08646e"
-    },
-    "notes/ML/Decision Trees.md": {
-      "mtimeMs": 1788667284146.337,
-      "hash": "b9ee8e4e79cb5f9e4dac41816232de8e48b0cd0779d1b69f202f137b706109d1"
-    },
-    "notes/ML/History & Philosophy.md": {
-      "mtimeMs": 1788657827347.688,
-      "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
-    },
-    "notes/ML/MLP.md": {
-      "mtimeMs": 1788667094198.6565,
-      "hash": "2e6c401fe8c0b46a7dde0149e41668e41db66cf4e84a438ee46a72033498f4a4"
-    },
-    "notes/ML/Metrics.md": {
-      "mtimeMs": 1788667933091.01,
-      "hash": "930ac87a6dfe520d7e4c0642f8ee67ce9dd73b6cae413440f277816eaa8a8d49"
-    },
-    "notes/ML/RNN.md": {
-      "mtimeMs": 1788668179688.677,
-      "hash": "0b4a2f751a49cc41c8b8b1f10a90881ac2f2c900c9073006ad8538c9e3db20cc"
-    },
-    "notes/ML/Transformer Basis.md": {
-      "mtimeMs": 1788667339302.2947,
-      "hash": "9d16066c1b3e05940925b7f9beb57c230f303092ecb215e4fb933b9157adffd6"
-    },
-    "notes/ML/Vision.md": {
-      "mtimeMs": 1788667689015.9734,
-      "hash": "012662459fb80cc78ab249f10735cc94adacafb14dcaf48ea9ac912f53ca7f84"
-    },
-    "notes/ML/readme.md": {
-      "mtimeMs": 1788657623570.7883,
-      "hash": "0f2ea128ea58b874ab208a3800255893d02076b2debb7f88d1f17d6ee5997ea7"
-    },
-    "notes/ML/概率论与信息论.md": {
-      "mtimeMs": 1788667023678.8035,
-      "hash": "81a4be8015a65160a51dd20978211680757290d07775ac66a0cb2fb5c9c51106"
-    },
-    "notes/ML/线性代数基础.md": {
+    "notes/ML/1.1.md": {
       "mtimeMs": 1788666993281.1897,
       "hash": "8ab413ab811482aa29790ea46e1a081dee1f109c83ad1c40dbf5832521b0f650"
     },
-    "notes/ML/降维.md": {
+    "notes/ML/1.2概率论与信息论.md": {
+      "mtimeMs": 1788667023678.8035,
+      "hash": "81a4be8015a65160a51dd20978211680757290d07775ac66a0cb2fb5c9c51106"
+    },
+    "notes/ML/1.History & Philosophy.md": {
+      "mtimeMs": 1788657827347.688,
+      "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
+    },
+    "notes/ML/10.强化学习.md": {
+      "mtimeMs": 1788669845742.2783,
+      "hash": "4ebada6f13c2d5e1d4d4f6251d473a416d6fa7c041a8455eedba82c3fa8f90fe"
+    },
+    "notes/ML/2.Metrics.md": {
+      "mtimeMs": 1788667933091.01,
+      "hash": "930ac87a6dfe520d7e4c0642f8ee67ce9dd73b6cae413440f277816eaa8a8d49"
+    },
+    "notes/ML/3..md": {
+      "mtimeMs": 1788667284146.337,
+      "hash": "b9ee8e4e79cb5f9e4dac41816232de8e48b0cd0779d1b69f202f137b706109d1"
+    },
+    "notes/ML/4.1Norm.md": {
+      "mtimeMs": 1788669473987.9363,
+      "hash": "23a65a423e9f4df020f363697b45606efb5592cc1fcfb3e47d0cc10db284b274"
+    },
+    "notes/ML/4.MLP.md": {
+      "mtimeMs": 1788667094198.6565,
+      "hash": "2e6c401fe8c0b46a7dde0149e41668e41db66cf4e84a438ee46a72033498f4a4"
+    },
+    "notes/ML/5.Transformer Basis.md": {
+      "mtimeMs": 1788667339302.2947,
+      "hash": "9d16066c1b3e05940925b7f9beb57c230f303092ecb215e4fb933b9157adffd6"
+    },
+    "notes/ML/6.RNN.md": {
+      "mtimeMs": 1788668179688.677,
+      "hash": "0b4a2f751a49cc41c8b8b1f10a90881ac2f2c900c9073006ad8538c9e3db20cc"
+    },
+    "notes/ML/7.Vision.md": {
+      "mtimeMs": 1788667689015.9734,
+      "hash": "012662459fb80cc78ab249f10735cc94adacafb14dcaf48ea9ac912f53ca7f84"
+    },
+    "notes/ML/8.Data Processing.md": {
+      "mtimeMs": 1788667849738.16,
+      "hash": "9102a607edc364486e4e760c100ac35d24d5e9ee4593b0a576d36fdf9a08646e"
+    },
+    "notes/ML/9.降维.md": {
       "mtimeMs": 1788667448038.1165,
       "hash": "118caa0134c808464824e261e301da2275d0dc3dec0562e41967fb932b3965a5"
+    },
+    "notes/ML/index.md": {
+      "mtimeMs": 1788657623570.7883,
+      "hash": "0f2ea128ea58b874ab208a3800255893d02076b2debb7f88d1f17d6ee5997ea7"
     }
   }
 }
