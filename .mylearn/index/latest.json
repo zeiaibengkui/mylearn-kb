@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788669846246,
+  "updatedAt": 1788672131592,
   "files": {
     "course/高二试题/Explanation.md": {
       "mtimeMs": 1788273772360.7874,
@@ -117,37 +117,77 @@
       "mtimeMs": 1788655453521.2979,
       "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
     },
-    "notes/ML/1.1.md": {
-      "mtimeMs": 1788666993281.1897,
-      "hash": "8ab413ab811482aa29790ea46e1a081dee1f109c83ad1c40dbf5832521b0f650"
+    "notes/ML/.remember/.gitignore": {
+      "mtimeMs": 1788672088411.2434,
+      "hash": "cdbcae15105d6b781e620813c79c7e868740d4e9cc53ce6f5fcbbc12387adf4b"
     },
-    "notes/ML/1.2概率论与信息论.md": {
-      "mtimeMs": 1788667023678.8035,
-      "hash": "81a4be8015a65160a51dd20978211680757290d07775ac66a0cb2fb5c9c51106"
+    "notes/ML/.remember/logs/hook-errors.log": {
+      "mtimeMs": 1788672088411.2434,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "notes/ML/1.History & Philosophy.md": {
+    "notes/ML/.remember/logs/memory-2026-09-06.log": {
+      "mtimeMs": 1788672131074.2566,
+      "hash": "adf863e5ad37b5d4697c0552df48401784ae51ea7f3a580d09557ccc117e5050"
+    },
+    "notes/ML/.remember/tmp/capture-alive": {
+      "mtimeMs": 1788672131089.2563,
+      "hash": "c026952cd973f58abf208b8434e8355aa9eaaa9dc915b9a78e07970f970c26f0"
+    },
+    "notes/ML/.remember/tmp/capture-alive.d/4b2ab06b-0036-4c29-aef4-09909b8a9381": {
+      "mtimeMs": 1788672131089.2563,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/tmp/case-divergence": {
+      "mtimeMs": 1788672088472.242,
+      "hash": "e4a1e2b1318cc21cfcfaedcfcee34561f0fba59d4bf6837957e4104b9a5f4a5e"
+    },
+    "notes/ML/.remember/tmp/post-tool-ran": {
+      "mtimeMs": 1788672131074.2566,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/tmp/session-slug": {
+      "mtimeMs": 1788672088469.242,
+      "hash": "8d0a6dff6d1dba56549bf9868737ee55179254fa984d68445cd31829e7bf33d9"
+    },
+    "notes/ML/1.0 History & Philosophy.md": {
       "mtimeMs": 1788657827347.688,
       "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
     },
+    "notes/ML/1.1线性代数基础.md": {
+      "mtimeMs": 1788666993281.1897,
+      "hash": "8ab413ab811482aa29790ea46e1a081dee1f109c83ad1c40dbf5832521b0f650"
+    },
+    "notes/ML/1.2导数.md": {
+      "mtimeMs": 1788670209791.6538,
+      "hash": "d0f5cca28d2671e4b622c961354de723410e3b9c493168358b29dc78318ec3df"
+    },
+    "notes/ML/1.3概率论与信息论.md": {
+      "mtimeMs": 1788667023678.8035,
+      "hash": "81a4be8015a65160a51dd20978211680757290d07775ac66a0cb2fb5c9c51106"
+    },
     "notes/ML/10.强化学习.md": {
-      "mtimeMs": 1788669845742.2783,
+      "mtimeMs": 1788669905071.155,
       "hash": "4ebada6f13c2d5e1d4d4f6251d473a416d6fa7c041a8455eedba82c3fa8f90fe"
     },
     "notes/ML/2.Metrics.md": {
       "mtimeMs": 1788667933091.01,
       "hash": "930ac87a6dfe520d7e4c0642f8ee67ce9dd73b6cae413440f277816eaa8a8d49"
     },
-    "notes/ML/3..md": {
+    "notes/ML/3.决策树.md": {
       "mtimeMs": 1788667284146.337,
       "hash": "b9ee8e4e79cb5f9e4dac41816232de8e48b0cd0779d1b69f202f137b706109d1"
     },
-    "notes/ML/4.1Norm.md": {
-      "mtimeMs": 1788669473987.9363,
-      "hash": "23a65a423e9f4df020f363697b45606efb5592cc1fcfb3e47d0cc10db284b274"
+    "notes/ML/4.0 MLP.md": {
+      "mtimeMs": 1788670524503.8892,
+      "hash": "c10c4ef0a35b7ce0fdd402e0f399376b5c409949b3fa4e49f306e2801c1ad87d"
     },
-    "notes/ML/4.MLP.md": {
-      "mtimeMs": 1788667094198.6565,
-      "hash": "2e6c401fe8c0b46a7dde0149e41668e41db66cf4e84a438ee46a72033498f4a4"
+    "notes/ML/4.1 非线性层.md": {
+      "mtimeMs": 1788671365219.9116,
+      "hash": "5205b11d608361e2ab755a7561ec0b5fe63c827ac236c4845a8c2eac42d8e4fc"
+    },
+    "notes/ML/4.2 Optimizer.md": {
+      "mtimeMs": 1788670305888.8665,
+      "hash": "7652098a7a9acd75ea7042a459bc20a59a29f127b8d5e0c9cc556e11dd299333"
     },
     "notes/ML/5.Transformer Basis.md": {
       "mtimeMs": 1788667339302.2947,
@@ -170,8 +210,8 @@
       "hash": "118caa0134c808464824e261e301da2275d0dc3dec0562e41967fb932b3965a5"
     },
     "notes/ML/index.md": {
-      "mtimeMs": 1788657623570.7883,
-      "hash": "0f2ea128ea58b874ab208a3800255893d02076b2debb7f88d1f17d6ee5997ea7"
+      "mtimeMs": 1788672023079.7778,
+      "hash": "868c4e7ebd61dd5362c8a94153c80a0613ae38a8b2c342d3be2c1157915698f5"
     }
   }
 }
