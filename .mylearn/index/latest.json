@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788660871708,
+  "updatedAt": 1788665051867,
   "files": {
     "course/高二试题/Explanation.md": {
       "mtimeMs": 1788273772360.7874,
@@ -12,6 +12,22 @@
     "course/高二试题/高二第一学期开学练习6稿  .pdf": {
       "mtimeMs": 1788273324447.456,
       "hash": "72fb2d38f32e713d9d20046eaf03a5249afce8ab99ee9704aa6c4ce0bd6d6e97"
+    },
+    "hdu/hdu6035 Colorful Tree/Explanation.md": {
+      "mtimeMs": 1788665047999.1907,
+      "hash": "92ab1089ed8425d2ee0e3f488404c898ef05c0945e38f88560619f0ffb6be11a"
+    },
+    "hdu/hdu6035 Colorful Tree/Solution sol.md": {
+      "mtimeMs": 1788664982726.9543,
+      "hash": "9b11d540324f500f61177e2ccffbae27f8e84da419eea1f0363cb24e4b8080f6"
+    },
+    "hdu/hdu6035 Colorful Tree/problem.md": {
+      "mtimeMs": 1788664878438.0962,
+      "hash": "f2c212576443c86c743f08c86fc763e6120a236caf3985075f1edee2ea97f4b6"
+    },
+    "hdu/hdu6035 Colorful Tree/sol.cpp": {
+      "mtimeMs": 1788664982724.954,
+      "hash": "f34510d8a7d808dde2ee4b53a57d33dd0ce76325843881947e7ffd085f3d9158"
     },
     "luogu/AT_dp_u Grouping/Explanation.md": {
       "mtimeMs": 1788658920426.173,
