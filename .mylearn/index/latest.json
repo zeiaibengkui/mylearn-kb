@@ -1,28 +1,20 @@
 {
-  "updatedAt": 1788672131592,
+  "updatedAt": 1788843211844,
   "files": {
-    "course/高二试题/Explanation.md": {
-      "mtimeMs": 1788273772360.7874,
-      "hash": "d99d9c134fbafb6fdd7c5074925090a4efe7e2be06f921b8e6ef67be69b5e36d"
-    },
-    "course/高二试题/problem.md": {
-      "mtimeMs": 1788273324446.6345,
-      "hash": "b480c150028ae4546ff3cb479e3191792ccd01913050c451f4acfa55f96e9a44"
-    },
-    "course/高二试题/高二第一学期开学练习6稿  .pdf": {
-      "mtimeMs": 1788273324447.456,
-      "hash": "72fb2d38f32e713d9d20046eaf03a5249afce8ab99ee9704aa6c4ce0bd6d6e97"
+    "course/高二数学限时练/problem.md": {
+      "mtimeMs": 1788707152935.9333,
+      "hash": "154ac99493bd04b08407ac46e4ec3dd1ca6d25fb525b56878f023b33f031e280"
     },
     "hdu/hdu6035 Colorful Tree/Explanation.md": {
-      "mtimeMs": 1788665047999.1907,
+      "mtimeMs": 1788707152937.6343,
       "hash": "92ab1089ed8425d2ee0e3f488404c898ef05c0945e38f88560619f0ffb6be11a"
     },
     "hdu/hdu6035 Colorful Tree/Solution sol.md": {
-      "mtimeMs": 1788664982726.9543,
+      "mtimeMs": 1788707152939.4375,
       "hash": "9b11d540324f500f61177e2ccffbae27f8e84da419eea1f0363cb24e4b8080f6"
     },
     "hdu/hdu6035 Colorful Tree/problem.md": {
-      "mtimeMs": 1788664878438.0962,
+      "mtimeMs": 1788707152941.0073,
       "hash": "f2c212576443c86c743f08c86fc763e6120a236caf3985075f1edee2ea97f4b6"
     },
     "hdu/hdu6035 Colorful Tree/sol.cpp": {
@@ -30,15 +22,15 @@
       "hash": "f34510d8a7d808dde2ee4b53a57d33dd0ce76325843881947e7ffd085f3d9158"
     },
     "luogu/AT_dp_u Grouping/Explanation.md": {
-      "mtimeMs": 1788658920426.173,
+      "mtimeMs": 1788707152926.6145,
       "hash": "03c029a6f041829948857a6c54de8af0e0ba7e892fb8654cd6f635ac95abd3f3"
     },
     "luogu/AT_dp_u Grouping/Solution sol.md": {
-      "mtimeMs": 1788658899039.2126,
+      "mtimeMs": 1788707152928.0955,
       "hash": "b68cbf611534024ea9f7ed192fd1ec8835606681e79b1fce2830630c85630281"
     },
     "luogu/AT_dp_u Grouping/problem.md": {
-      "mtimeMs": 1788660666255.0576,
+      "mtimeMs": 1788707152929.603,
       "hash": "68cc8825076251b15da600a10071833cdf21cd766fb535afbce9a9418c0fcd95"
     },
     "luogu/AT_dp_u Grouping/sol.cpp": {
@@ -46,15 +38,15 @@
       "hash": "659e46260fef90c2ba16fe085f8a44cf0b5b43b5df20bb3e23d58a5c038e1c35"
     },
     "luogu/AT_dp_v Subtree/Explanation.md": {
-      "mtimeMs": 1788660864431.8933,
+      "mtimeMs": 1788707152931.4167,
       "hash": "0a121d42238b554bf8eead7d25ada7e959a6becb8ef84a87343077c84696f672"
     },
     "luogu/AT_dp_v Subtree/Solution sol_AT_dp_v.md": {
-      "mtimeMs": 1788660702355.5667,
+      "mtimeMs": 1788707152933.0571,
       "hash": "6b7422fad1c0dfd74a8273bf073d88c86a0b8f028a68adda096f1edf4604dae3"
     },
     "luogu/AT_dp_v Subtree/problem.md": {
-      "mtimeMs": 1788660635698.5232,
+      "mtimeMs": 1788707152934.3984,
       "hash": "04476c14323a204b714116f93b8327633cdb6539d9e64cc552a7cc41763938f2"
     },
     "luogu/AT_dp_v Subtree/sol_AT_dp_v.cpp": {
@@ -62,11 +54,11 @@
       "hash": "700c9473ab026535a3caf03efccc25714bda63fe55f02d4a17beb36e3778cafa"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/Solution sol.md": {
-      "mtimeMs": 1788272015517.0137,
+      "mtimeMs": 1788707152913.7449,
       "hash": "1f2980542f76eb5dcc36e7b9fd089560e98ff1ce24a422cbf7a028043b772053"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/problem.md": {
-      "mtimeMs": 1788271985776.9688,
+      "mtimeMs": 1788707152915.4104,
       "hash": "8225b3bccb76ea4874cd593c7872a2edd56f9672240adb5dca2030b9cb88d277"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/sol.cpp": {
@@ -74,23 +66,39 @@
       "hash": "255a43448e1fa6d66a2d21a7973fe13d67905b9176fac6b419c789d0d115057b"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/Explanation.md": {
-      "mtimeMs": 1788272599852.0103,
+      "mtimeMs": 1788707152916.9797,
       "hash": "a528a426c47de5b4445af51684598475ba73142bbd7105aef09ea564b5fbffd7"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/Solution sol.md": {
-      "mtimeMs": 1788272588726.375,
+      "mtimeMs": 1788707152918.6265,
       "hash": "db2371eb7b9056e4a13ecd520f6195adc8489da3eb64855610b0f41f66aeed25"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/problem.md": {
-      "mtimeMs": 1788272548684.6868,
+      "mtimeMs": 1788707152920.1794,
       "hash": "935f5c1bec65aaba970538bdde2e0439dc48fe23c4406ee9dc7e7fcbb8547a5e"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/sol.cpp": {
       "mtimeMs": 1788272588726.1958,
       "hash": "d245f52de70664de2edbb5ad85a2181ea8bec9f3c7f384b1330971009af4edf5"
     },
+    "luogu/P2748 [USACO16OPEN] Landscaping P/Explanation.md": {
+      "mtimeMs": 1788843204115.054,
+      "hash": "f67aa8ffb910c48ba93454dc794a2c5c7604f82d72acf52ecad45371a8927f98"
+    },
+    "luogu/P2748 [USACO16OPEN] Landscaping P/Solution sol.md": {
+      "mtimeMs": 1788843184747.4216,
+      "hash": "19815cea4925846e02f31cd59260bfae9a0002e382ee518d91df8bd626bb6ac1"
+    },
+    "luogu/P2748 [USACO16OPEN] Landscaping P/problem.md": {
+      "mtimeMs": 1788842717292.5283,
+      "hash": "1c51c2b8394980ecf77c4c8c3f87fd9d5d592a16a1bf9f4703675fdc17e9850a"
+    },
+    "luogu/P2748 [USACO16OPEN] Landscaping P/sol.cpp": {
+      "mtimeMs": 1788843184746.9294,
+      "hash": "9653f9d85a78e2c2a5ead7f224b8f114fbffadc7de7126bcb64dc66e35ffd660"
+    },
     "luogu/P5985 [PA 2019] Muzyka pop/Solution p5985-muzyka-pop.md": {
-      "mtimeMs": 1788270884992.374,
+      "mtimeMs": 1788707152909.0173,
       "hash": "b44ec93d6b5afca21330fa15bdf6d181576507f50d5af8374ad02aeeb89e9060"
     },
     "luogu/P5985 [PA 2019] Muzyka pop/p5985-muzyka-pop.cpp": {
@@ -98,19 +106,19 @@
       "hash": "815069da3467aec68f355225b7724bbad84704329e1e17d5b695c2cf5cc65738"
     },
     "luogu/P5985 [PA 2019] Muzyka pop/problem.md": {
-      "mtimeMs": 1788268151824,
+      "mtimeMs": 1788707152911.82,
       "hash": "1c6b64a4b1057bf63d6318e45667e136f64fbfc3ef05be12be69b5326a48fdc1"
     },
     "luogu/P6691 选择题/Explanation.md": {
-      "mtimeMs": 1788655479352.3057,
+      "mtimeMs": 1788707152921.8242,
       "hash": "94546cf7c34c35266ba9602755af6a3ad23eec2ec5370fe915916c6c33715f42"
     },
     "luogu/P6691 选择题/Solution sol.md": {
-      "mtimeMs": 1788655453521.6711,
+      "mtimeMs": 1788707152923.4812,
       "hash": "ff3c386f2a385ef76425ed305161aed3e879f84aa8d26b7b8ddf1fdcc7d45da8"
     },
     "luogu/P6691 选择题/problem.md": {
-      "mtimeMs": 1788655354331.1448,
+      "mtimeMs": 1788707152925.1572,
       "hash": "60203674007ed52a5584cb1189133b4956a4b405b689a195eb267681f3cb2d0a"
     },
     "luogu/P6691 选择题/sol.cpp": {
@@ -121,96 +129,172 @@
       "mtimeMs": 1788672088411.2434,
       "hash": "cdbcae15105d6b781e620813c79c7e868740d4e9cc53ce6f5fcbbc12387adf4b"
     },
+    "notes/ML/.remember/logs/autonomous/save-165643.log": {
+      "mtimeMs": 1788685003447.9456,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-170107.log": {
+      "mtimeMs": 1788685267563.6858,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-170526.log": {
+      "mtimeMs": 1788685526778.434,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-170850.log": {
+      "mtimeMs": 1788685730521.6797,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-171050.log": {
+      "mtimeMs": 1788685850538.2747,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-171253.log": {
+      "mtimeMs": 1788685973805.7688,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-171612.log": {
+      "mtimeMs": 1788686172882.0925,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-171842.log": {
+      "mtimeMs": 1788686322249.5195,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-172043.log": {
+      "mtimeMs": 1788686443592.7886,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-172244.log": {
+      "mtimeMs": 1788686564303.121,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-172525.log": {
+      "mtimeMs": 1788686725893.2646,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/.remember/logs/autonomous/save-172727.log": {
+      "mtimeMs": 1788686847292.6467,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
     "notes/ML/.remember/logs/hook-errors.log": {
       "mtimeMs": 1788672088411.2434,
       "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "notes/ML/.remember/logs/memory-2026-09-06.log": {
-      "mtimeMs": 1788672131074.2566,
-      "hash": "adf863e5ad37b5d4697c0552df48401784ae51ea7f3a580d09557ccc117e5050"
+      "mtimeMs": 1788686925312.3328,
+      "hash": "94cb2ae689224181dfdabeb651cecfab51e9a2ebfa98e425d7496e5f0f349503"
+    },
+    "notes/ML/.remember/now.md": {
+      "mtimeMs": 1788707152944.5212,
+      "hash": "ad640719bb7c7eaa266037bdc67ba7a3bcf312769456e70f98a54fa585522faa"
     },
     "notes/ML/.remember/tmp/capture-alive": {
-      "mtimeMs": 1788672131089.2563,
+      "mtimeMs": 1788686925332.332,
       "hash": "c026952cd973f58abf208b8434e8355aa9eaaa9dc915b9a78e07970f970c26f0"
     },
     "notes/ML/.remember/tmp/capture-alive.d/4b2ab06b-0036-4c29-aef4-09909b8a9381": {
-      "mtimeMs": 1788672131089.2563,
+      "mtimeMs": 1788686925332.332,
       "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "notes/ML/.remember/tmp/case-divergence": {
       "mtimeMs": 1788672088472.242,
       "hash": "e4a1e2b1318cc21cfcfaedcfcee34561f0fba59d4bf6837957e4104b9a5f4a5e"
     },
+    "notes/ML/.remember/tmp/last-ndc.ts": {
+      "mtimeMs": 1788684856810.89,
+      "hash": "217a2f478f0b89574c66abc1089e2f6cb8d850636bd5bf99aa454bdd5d1f7d0c"
+    },
+    "notes/ML/.remember/tmp/last-save-ts": {
+      "mtimeMs": 1788686847422.086,
+      "hash": "60dfa93b471880330f4a5ef51f65d42f02d91e5de1bf1e8cf36ca4687225de1b"
+    },
+    "notes/ML/.remember/tmp/last-save.json": {
+      "mtimeMs": 1788686451394.097,
+      "hash": "d6806b58e8dcccb89bb5c0e051ac12e8badf2d96de04aa86e523bb687dbd478b"
+    },
+    "notes/ML/.remember/tmp/now-day": {
+      "mtimeMs": 1788685535022.202,
+      "hash": "d818b59911c29d0577be4565a8d003cfe1efef76442ccb3121f6daa90e2eebe5"
+    },
     "notes/ML/.remember/tmp/post-tool-ran": {
-      "mtimeMs": 1788672131074.2566,
+      "mtimeMs": 1788686925312.3328,
       "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
+    "notes/ML/.remember/tmp/save-session.pid": {
+      "mtimeMs": 1788686847291.6467,
+      "hash": "275dd1055baa5dad6161873d848a6a55d923973ca35fc35e8d3872b00dee6f3f"
+    },
     "notes/ML/.remember/tmp/session-slug": {
-      "mtimeMs": 1788672088469.242,
+      "mtimeMs": 1788686170345.165,
       "hash": "8d0a6dff6d1dba56549bf9868737ee55179254fa984d68445cd31829e7bf33d9"
     },
+    "notes/ML/.remember/today-2026-09-06.md": {
+      "mtimeMs": 1788707152942.7126,
+      "hash": "7a135997020c7f109c11ff0c086d4fd4acf4574c40d0a48e7619fdf185ffacf3"
+    },
     "notes/ML/1.0 History & Philosophy.md": {
-      "mtimeMs": 1788657827347.688,
+      "mtimeMs": 1788707152945.9695,
       "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
     },
     "notes/ML/1.1线性代数基础.md": {
-      "mtimeMs": 1788666993281.1897,
-      "hash": "8ab413ab811482aa29790ea46e1a081dee1f109c83ad1c40dbf5832521b0f650"
+      "mtimeMs": 1788707152947.6218,
+      "hash": "44dcd31019b0b8418889dab1461dcc61a058bc7e6b786c430d5937f29a047ec3"
     },
     "notes/ML/1.2导数.md": {
-      "mtimeMs": 1788670209791.6538,
-      "hash": "d0f5cca28d2671e4b622c961354de723410e3b9c493168358b29dc78318ec3df"
+      "mtimeMs": 1788707152949.335,
+      "hash": "d748b4cffb48552d4c5bd12a4f0408952f599520283b7996130d74abcf0713f0"
     },
     "notes/ML/1.3概率论与信息论.md": {
-      "mtimeMs": 1788667023678.8035,
-      "hash": "81a4be8015a65160a51dd20978211680757290d07775ac66a0cb2fb5c9c51106"
+      "mtimeMs": 1788707152950.9692,
+      "hash": "fda269fff942c7df039504e4c51e4ffa41ef6466f32ec186a3f74a135026846f"
     },
     "notes/ML/10.强化学习.md": {
-      "mtimeMs": 1788669905071.155,
-      "hash": "4ebada6f13c2d5e1d4d4f6251d473a416d6fa7c041a8455eedba82c3fa8f90fe"
+      "mtimeMs": 1788707152952.3416,
+      "hash": "74a88338d0a0baf647da487e6fd3e9c8100101ca536d918127659b3ffc8737f8"
     },
     "notes/ML/2.Metrics.md": {
-      "mtimeMs": 1788667933091.01,
+      "mtimeMs": 1788707152954.1165,
       "hash": "930ac87a6dfe520d7e4c0642f8ee67ce9dd73b6cae413440f277816eaa8a8d49"
     },
     "notes/ML/3.决策树.md": {
-      "mtimeMs": 1788667284146.337,
-      "hash": "b9ee8e4e79cb5f9e4dac41816232de8e48b0cd0779d1b69f202f137b706109d1"
+      "mtimeMs": 1788707152955.7864,
+      "hash": "412a08585461942a3039d30d436d101542868bddd132e69ebfef8f6386d97bce"
     },
     "notes/ML/4.0 MLP.md": {
-      "mtimeMs": 1788670524503.8892,
-      "hash": "c10c4ef0a35b7ce0fdd402e0f399376b5c409949b3fa4e49f306e2801c1ad87d"
+      "mtimeMs": 1788707152957.585,
+      "hash": "f298caef0b310cc28e5dc52b254c97b76912f9c498cb182e5ba6aca0fda68f14"
     },
     "notes/ML/4.1 非线性层.md": {
-      "mtimeMs": 1788671365219.9116,
+      "mtimeMs": 1788707152959.5752,
       "hash": "5205b11d608361e2ab755a7561ec0b5fe63c827ac236c4845a8c2eac42d8e4fc"
     },
     "notes/ML/4.2 Optimizer.md": {
-      "mtimeMs": 1788670305888.8665,
-      "hash": "7652098a7a9acd75ea7042a459bc20a59a29f127b8d5e0c9cc556e11dd299333"
+      "mtimeMs": 1788707152961.2275,
+      "hash": "a1d428d78d8a2717eac77a55b70b15c65647283a6f71fbede9d11d74e3060c04"
     },
     "notes/ML/5.Transformer Basis.md": {
-      "mtimeMs": 1788667339302.2947,
-      "hash": "9d16066c1b3e05940925b7f9beb57c230f303092ecb215e4fb933b9157adffd6"
+      "mtimeMs": 1788707152962.6855,
+      "hash": "3613a04d72dac71ca1ed2858dddfb4214e5fad2e66f61f7b53b5bb2ab9cd11c2"
     },
     "notes/ML/6.RNN.md": {
-      "mtimeMs": 1788668179688.677,
-      "hash": "0b4a2f751a49cc41c8b8b1f10a90881ac2f2c900c9073006ad8538c9e3db20cc"
+      "mtimeMs": 1788707152964.3035,
+      "hash": "b0c28bc70de5ad8fa2a19ac099ad85f116d77a8ec54f423da6c988a48b060461"
     },
     "notes/ML/7.Vision.md": {
-      "mtimeMs": 1788667689015.9734,
+      "mtimeMs": 1788707152966.2317,
       "hash": "012662459fb80cc78ab249f10735cc94adacafb14dcaf48ea9ac912f53ca7f84"
     },
     "notes/ML/8.Data Processing.md": {
-      "mtimeMs": 1788667849738.16,
+      "mtimeMs": 1788707152967.94,
       "hash": "9102a607edc364486e4e760c100ac35d24d5e9ee4593b0a576d36fdf9a08646e"
     },
     "notes/ML/9.降维.md": {
-      "mtimeMs": 1788667448038.1165,
-      "hash": "118caa0134c808464824e261e301da2275d0dc3dec0562e41967fb932b3965a5"
+      "mtimeMs": 1788707152969.6375,
+      "hash": "a82743dcd269e3f28aa349d6784221fe2520150fd24f311cb261395c9d85bb88"
     },
     "notes/ML/index.md": {
-      "mtimeMs": 1788672023079.7778,
+      "mtimeMs": 1788707152971.4312,
       "hash": "868c4e7ebd61dd5362c8a94153c80a0613ae38a8b2c342d3be2c1157915698f5"
     }
   }
