@@ -9,14 +9,17 @@
 // serve from "/". Locally it stays "/" (vitepress dev/preview ignore base
 // concerns for navigation).
 
-import { defineConfig } from "vitepress";
+import { defineConfig, type DefaultTheme, type HeadConfig } from "vitepress";
 import fs from "node:fs";
 import path from "node:path";
 import { buildSidebar } from "./sidebar.ts";
+import { giscusConfig, type GiscusConfig } from "./giscus.ts";
 
 // SEO extras are opt-in: MYLEARN_SITE_URL (canonical origin, e.g.
 // https://chunl.ai) enables canonical/og tags + sitemap + robots; the lang
 // defaults to en-US and is set for the build with MYLEARN_LANG (e.g. zh-CN).
+// Comments are opt-in too: MYLEARN_GISCUS (see giscus.ts) mounts giscus
+// under every page.
 const siteUrl = (process.env.MYLEARN_SITE_URL ?? "").replace(/\/+$/, "");
 const siteName = "myLearn";
 const siteDescription = "Personal competitive-programming knowledge base";
@@ -63,6 +66,26 @@ function mirrorSources(root: string, dir: string, outDir: string): void {
 
 const sitemapUrls: string[] = [];
 
+// hoisted + annotated so the extra `giscus` key types cleanly alongside the
+// default theme's config (background: VitePress's ThemeConfig is not augmentable)
+const themeConfig: DefaultTheme.Config & { giscus?: GiscusConfig } = {
+    nav: [{ text: "Home", link: "/" }],
+    sidebar: buildSidebar(process.cwd()),
+    outline: { level: [2, 3] },
+    search: { provider: "local" },
+    // sidebar entries auto-follow the notes tree; only set explicit
+    // values if you want a fixed order or extra top-level links
+    docFooter: { prev: "Previous", next: "Next" },
+    // this KB's giscus ids (https://giscus.app); threads are keyed by og:title,
+    // which every page carries. Set MYLEARN_GISCUS in the environment to
+    // override (the generic template reads it and stays project-agnostic).
+    giscus: giscusConfig({
+        MYLEARN_GISCUS: "zeiaibengkui/mylearn-kb,R_kgDOUPPgIw,General,DIC_kwDOUPPgI84DFcWJ",
+        MYLEARN_GISCUS_MAPPING: "og:title",
+        MYLEARN_LANG: process.env.MYLEARN_LANG ?? "zh-CN",
+    }),
+};
+
 export default defineConfig({
     base: base(),
     lang: process.env.MYLEARN_LANG ?? "en-US",
@@ -80,25 +103,20 @@ export default defineConfig({
         "problems/:category/:title/problem.md": "problems/:category/:title/index.md",
         "readme.md": "index.md",
     },
-    themeConfig: {
-        nav: [{ text: "Home", link: "/" }],
-        sidebar: buildSidebar(process.cwd()),
-        outline: { level: [2, 3] },
-        search: { provider: "local" },
-        // sidebar entries auto-follow the notes tree; only set explicit
-        // values if you want a fixed order or extra top-level links
-        docFooter: { prev: "Previous", next: "Next" },
-    },
+    themeConfig,
     transformHead: ({ page, title, description }) => {
-        // canonical + Open Graph — with a custom domain both alias hosts
-        // rewrite to one canonical origin, so the duplicates stay harmless
-        if (!siteUrl) return;
+        // og:title is emitted unconditionally — it is cheap and giscus's
+        // og:title mapping reads it (see MYLEARN_GISCUS_MAPPING)
+        const tags: HeadConfig[] = [["meta", { property: "og:title", content: title }]];
+        // canonical + remaining Open Graph — with a custom domain both alias
+        // hosts rewrite to one canonical origin, so the duplicates stay harmless
+        if (!siteUrl) return tags;
         const url = siteUrl + routeFor(page);
         sitemapUrls.push(url);
         return [
+            ...tags,
             ["link", { rel: "canonical", href: url }],
             ["meta", { property: "og:url", content: url }],
-            ["meta", { property: "og:title", content: title }],
             ["meta", { property: "og:description", content: description }],
             ["meta", { property: "og:site_name", content: siteName }],
             ["meta", { name: "twitter:card", content: "summary" }],

@@ -4,6 +4,10 @@
 //   notes/… nestable freeform notes
 // Titles come from gray-matter `title` frontmatter (fallback: directory/file
 // name). No external deps — runs inside the VitePress config process.
+//
+// Folder behaviour: every group is emitted `collapsed: true` and VitePress
+// unfolds only the groups on the active page's path — the sidebar shows the
+// current path, other folders stay shut.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -12,6 +16,12 @@ export interface SidebarItem {
     text: string;
     link?: string;
     items?: SidebarItem[];
+    /**
+     * Folder behaviour: every generated group is `collapsed: true`, so the tree
+     * shows only the current path — VitePress force-opens any group holding the
+     * active link (VPSidebarItem's `watchPostEffect`), the rest stay folded.
+     */
+    collapsed?: boolean;
 }
 
 /** problems/<cat>/<title>/ — a problem dir with at least one .md file */
@@ -28,7 +38,7 @@ function problemItems(root: string, dir: string): SidebarItem[] {
             .filter((e) => hasMd(path.join(catDir, e)))
             .sort()
             .map((title) => problemItem(root, path.join(catDir, title)));
-        if (catItems.length) items.push({ text: category, items: catItems });
+        if (catItems.length) items.push({ text: category, collapsed: true, items: catItems });
     }
     return items;
 }
@@ -57,6 +67,8 @@ function problemItem(root: string, dir: string): SidebarItem {
     const item: SidebarItem = { text: title, link: toRoute(root, leafPath) };
     const rest = mds.filter((_, i) => i !== problemIdx && !routeIsDir(root, path.join(dir, mds[i])));
     if (rest.length) {
+        // solutions fold under the problem (the active one auto-opens)
+        item.collapsed = true;
         item.items = rest.map((e) => {
             const p = path.join(dir, e);
             return { text: readTitle(p, e.replace(/\.md$/i, "")), link: toRoute(root, p) };
@@ -88,7 +100,7 @@ function notesItems(root: string, dir: string): SidebarItem[] {
         const p = path.join(dir, e);
         if (fs.statSync(p).isDirectory()) {
             const sub = notesItems(root, p);
-            if (sub.length) items.push({ text: e, items: sub });
+            if (sub.length) items.push({ text: e, collapsed: true, items: sub });
         } else if (e.toLowerCase() === "index.md") {
             // index.md is its dir — text = the dir name, link the dir route
             items.push({ text: path.basename(dir), link: toRoute(root, p) });

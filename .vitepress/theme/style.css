@@ -6,3 +6,8 @@
 .vp-doc pre {
     border-radius: 8px;
 }
+
+/* giscus comments (mounted only when MYLEARN_GISCUS is set) */
+.mylearn-giscus {
+    margin-top: 2rem;
+}
