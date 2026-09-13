@@ -54,6 +54,9 @@ function mirrorSources(root: string, dir: string, outDir: string): void {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
         const src = path.join(dir, entry.name);
         if (entry.isDirectory()) {
+            // per-problem test data (problems/**/data/: generator.py, *.in/*.ans)
+            // stays local — it is neither a page nor a downloadable asset
+            if (entry.name === "data" && fs.existsSync(path.join(dir, "problem.md"))) continue;
             mirrorSources(root, src, outDir);
             continue;
         }

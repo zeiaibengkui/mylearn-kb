@@ -1,20 +1,20 @@
 {
-  "updatedAt": 1788843211844,
+  "updatedAt": 1789270033105,
   "files": {
     "course/高二数学限时练/problem.md": {
-      "mtimeMs": 1788707152935.9333,
+      "mtimeMs": 1789228165240.1497,
       "hash": "154ac99493bd04b08407ac46e4ec3dd1ca6d25fb525b56878f023b33f031e280"
     },
     "hdu/hdu6035 Colorful Tree/Explanation.md": {
-      "mtimeMs": 1788707152937.6343,
+      "mtimeMs": 1789228165241.5564,
       "hash": "92ab1089ed8425d2ee0e3f488404c898ef05c0945e38f88560619f0ffb6be11a"
     },
     "hdu/hdu6035 Colorful Tree/Solution sol.md": {
-      "mtimeMs": 1788707152939.4375,
+      "mtimeMs": 1789228165243.2795,
       "hash": "9b11d540324f500f61177e2ccffbae27f8e84da419eea1f0363cb24e4b8080f6"
     },
     "hdu/hdu6035 Colorful Tree/problem.md": {
-      "mtimeMs": 1788707152941.0073,
+      "mtimeMs": 1789228165244.3457,
       "hash": "f2c212576443c86c743f08c86fc763e6120a236caf3985075f1edee2ea97f4b6"
     },
     "hdu/hdu6035 Colorful Tree/sol.cpp": {
@@ -22,15 +22,83 @@
       "hash": "f34510d8a7d808dde2ee4b53a57d33dd0ce76325843881947e7ffd085f3d9158"
     },
     "luogu/AT_dp_u Grouping/Explanation.md": {
-      "mtimeMs": 1788707152926.6145,
+      "mtimeMs": 1789228165225.9822,
       "hash": "03c029a6f041829948857a6c54de8af0e0ba7e892fb8654cd6f635ac95abd3f3"
     },
     "luogu/AT_dp_u Grouping/Solution sol.md": {
-      "mtimeMs": 1788707152928.0955,
+      "mtimeMs": 1789228165227.7122,
       "hash": "b68cbf611534024ea9f7ed192fd1ec8835606681e79b1fce2830630c85630281"
     },
+    "luogu/AT_dp_u Grouping/data/1.ans": {
+      "mtimeMs": 1789268384646.5244,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/AT_dp_u Grouping/data/1.in": {
+      "mtimeMs": 1789268383586.3237,
+      "hash": "5d90ef7fc0d040fd56a1e48697cfa99e0dfaf4fd803aefefc3b5053ec1d36aea"
+    },
+    "luogu/AT_dp_u Grouping/data/2.ans": {
+      "mtimeMs": 1789268384655.5264,
+      "hash": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58"
+    },
+    "luogu/AT_dp_u Grouping/data/2.in": {
+      "mtimeMs": 1789268383586.3762,
+      "hash": "d59219eeba8d2b4da5847a4e0489d62b336cafd1668d5c6b7d14686445099d8e"
+    },
+    "luogu/AT_dp_u Grouping/data/3.ans": {
+      "mtimeMs": 1789268384663.5278,
+      "hash": "f0b5c2c2211c8d67ed15e75e656c7862d086e9245420892a7de62cd9ec582a06"
+    },
+    "luogu/AT_dp_u Grouping/data/3.in": {
+      "mtimeMs": 1789268383586.4014,
+      "hash": "fee072ff19661b7f02d837a147edde8d061bdd7d2fed889162f04046cdcfd08b"
+    },
+    "luogu/AT_dp_u Grouping/data/4.ans": {
+      "mtimeMs": 1789268384671.5295,
+      "hash": "6169555d9248be7e184f52250129b0d66c9932af74f4ac7bc716c20013fca362"
+    },
+    "luogu/AT_dp_u Grouping/data/4.in": {
+      "mtimeMs": 1789268383586.4531,
+      "hash": "22c9678888205ff8ab268f35aa2f38fc3c3a175a835fb4fb8e0e9456f1fd453d"
+    },
+    "luogu/AT_dp_u Grouping/data/5.ans": {
+      "mtimeMs": 1789268384706.5369,
+      "hash": "ca992ad028f77b51a925a9f61348568d17f4920b76691d478390b6fe61d711cf"
+    },
+    "luogu/AT_dp_u Grouping/data/5.in": {
+      "mtimeMs": 1789268383586.4993,
+      "hash": "7945f919f198f19a938e0ba106f973504da8efdf1768a4490fbd10109083d8f5"
+    },
+    "luogu/AT_dp_u Grouping/data/6.ans": {
+      "mtimeMs": 1789268384747.5454,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/AT_dp_u Grouping/data/6.in": {
+      "mtimeMs": 1789268383586.544,
+      "hash": "a526a09b33b2118d09b412004c89b01256ecf3873f91efecf0af8d86e18c219c"
+    },
+    "luogu/AT_dp_u Grouping/data/7.ans": {
+      "mtimeMs": 1789268384787.5537,
+      "hash": "5784b676d04e3f12fd90dee0873a795190ff47e9ff304ea0d11a0e4d03109daa"
+    },
+    "luogu/AT_dp_u Grouping/data/7.in": {
+      "mtimeMs": 1789268383586.6125,
+      "hash": "65cfbcc9bfcd7551116bd3e745acbe26bfe3a9ad52e67f0401e8b41e703b18aa"
+    },
+    "luogu/AT_dp_u Grouping/data/8.ans": {
+      "mtimeMs": 1789268384832.563,
+      "hash": "b32bb2dd1ed4fd253b4bb7399631c413c290875ec096066b703d3227544a5e62"
+    },
+    "luogu/AT_dp_u Grouping/data/8.in": {
+      "mtimeMs": 1789268383586.6812,
+      "hash": "bce1858dc54607a746449771a290827a4eb0ee6f492b5356e165dbc70cb92164"
+    },
+    "luogu/AT_dp_u Grouping/data/generator.py": {
+      "mtimeMs": 1789268258587.7292,
+      "hash": "3f4c1aaefe191e8a5e0dc2a16b417ceb6ff3f2b734f7158b038d9e1cc9051233"
+    },
     "luogu/AT_dp_u Grouping/problem.md": {
-      "mtimeMs": 1788707152929.603,
+      "mtimeMs": 1789228165229.369,
       "hash": "68cc8825076251b15da600a10071833cdf21cd766fb535afbce9a9418c0fcd95"
     },
     "luogu/AT_dp_u Grouping/sol.cpp": {
@@ -38,15 +106,83 @@
       "hash": "659e46260fef90c2ba16fe085f8a44cf0b5b43b5df20bb3e23d58a5c038e1c35"
     },
     "luogu/AT_dp_v Subtree/Explanation.md": {
-      "mtimeMs": 1788707152931.4167,
+      "mtimeMs": 1789228165231.1592,
       "hash": "0a121d42238b554bf8eead7d25ada7e959a6becb8ef84a87343077c84696f672"
     },
     "luogu/AT_dp_v Subtree/Solution sol_AT_dp_v.md": {
-      "mtimeMs": 1788707152933.0571,
+      "mtimeMs": 1789228165232.4543,
       "hash": "6b7422fad1c0dfd74a8273bf073d88c86a0b8f028a68adda096f1edf4604dae3"
     },
+    "luogu/AT_dp_v Subtree/data/1.ans": {
+      "mtimeMs": 1789268386212.8481,
+      "hash": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    "luogu/AT_dp_v Subtree/data/1.in": {
+      "mtimeMs": 1789268384847.806,
+      "hash": "18148bdaad97f8eb437da29b7fa19b012e0dc8890e8339b54b2e37c53d127964"
+    },
+    "luogu/AT_dp_v Subtree/data/2.ans": {
+      "mtimeMs": 1789268386220.8499,
+      "hash": "8d58f634a5b5051db5ee0bb9d005779b382be410e8ebd5144590f2f0429f9220"
+    },
+    "luogu/AT_dp_v Subtree/data/2.in": {
+      "mtimeMs": 1789268384847.839,
+      "hash": "dd67895ec425ac0b8befdeeb79abb1522aa03191c3036d2a8c553a175bee2978"
+    },
+    "luogu/AT_dp_v Subtree/data/3.ans": {
+      "mtimeMs": 1789268386228.8516,
+      "hash": "0fb426f12cf7d04c8ea7e8f9ee077b18e51126a70224d4a6918d62f9cc284fb5"
+    },
+    "luogu/AT_dp_v Subtree/data/3.in": {
+      "mtimeMs": 1789268384847.8604,
+      "hash": "e25f41b2f263ff4d2c026738763ad6b58c534586cc33da246c160cbcb414d4c3"
+    },
+    "luogu/AT_dp_v Subtree/data/4.ans": {
+      "mtimeMs": 1789268386259.858,
+      "hash": "6bad326a103fcbc0384e0ba9bdcf81635ad235a74d571a9612f9c082f92110c8"
+    },
+    "luogu/AT_dp_v Subtree/data/4.in": {
+      "mtimeMs": 1789268384871.5713,
+      "hash": "42364e8ea7a6542d648092ffce3b950f927e034dd0d22c1780b502472b3f0405"
+    },
+    "luogu/AT_dp_v Subtree/data/5.ans": {
+      "mtimeMs": 1789268386288.8638,
+      "hash": "d9effd36fe8c77c9f657e6f11d3fecbb7b99e29134bd3a1b7855f0aec9a866cb"
+    },
+    "luogu/AT_dp_v Subtree/data/5.in": {
+      "mtimeMs": 1789268384890.5752,
+      "hash": "ffe2c1641a967509953fd51651fd2e4de77568382de746f178f8e2816e31789f"
+    },
+    "luogu/AT_dp_v Subtree/data/6.ans": {
+      "mtimeMs": 1789268386323.8708,
+      "hash": "72a27bad41bb5415f2a07ecfbc71f3e133f6f05177b82ae0ea1283e64215bb7c"
+    },
+    "luogu/AT_dp_v Subtree/data/6.in": {
+      "mtimeMs": 1789268384932.584,
+      "hash": "52ba4f9fb10ed43d3607562ce5dbdb7033d1729d210a63dfda28a821bad27a14"
+    },
+    "luogu/AT_dp_v Subtree/data/7.ans": {
+      "mtimeMs": 1789268386357.878,
+      "hash": "95d49a59bc52bf9e72729610c438f9ef8b1a5b70255c72ff1e70bc8388e5cc77"
+    },
+    "luogu/AT_dp_v Subtree/data/7.in": {
+      "mtimeMs": 1789268384971.592,
+      "hash": "f559833c5fbfde4386899c01675283b8fbe4d1bba974b193e23e396ba2d5cf79"
+    },
+    "luogu/AT_dp_v Subtree/data/8.ans": {
+      "mtimeMs": 1789268386387.884,
+      "hash": "f1b77875f9d99827d72d213a9880211b38a1e6367b29a56b457a1a8cff0e8d65"
+    },
+    "luogu/AT_dp_v Subtree/data/8.in": {
+      "mtimeMs": 1789268385002.5984,
+      "hash": "077e2ce9dc823cd66e6bbe20781b4820b9b8aed3407163dd6f090ec9debbbf12"
+    },
+    "luogu/AT_dp_v Subtree/data/generator.py": {
+      "mtimeMs": 1789268258588.124,
+      "hash": "09019aba79ed8de2947a568e00d7e480865b0e1f302e8c0db669da45794075fd"
+    },
     "luogu/AT_dp_v Subtree/problem.md": {
-      "mtimeMs": 1788707152934.3984,
+      "mtimeMs": 1789228165234.1204,
       "hash": "04476c14323a204b714116f93b8327633cdb6539d9e64cc552a7cc41763938f2"
     },
     "luogu/AT_dp_v Subtree/sol_AT_dp_v.cpp": {
@@ -54,76 +190,688 @@
       "hash": "700c9473ab026535a3caf03efccc25714bda63fe55f02d4a17beb36e3778cafa"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/Solution sol.md": {
-      "mtimeMs": 1788707152913.7449,
-      "hash": "1f2980542f76eb5dcc36e7b9fd089560e98ff1ce24a422cbf7a028043b772053"
+      "mtimeMs": 1789268516938.6675,
+      "hash": "ec5958f2861cb6e4d22902c39c8509c26e4e36497de973d72cab375d31a46088"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/1.ans": {
+      "mtimeMs": 1789268373436.0994,
+      "hash": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/1.in": {
+      "mtimeMs": 1789268372313.3113,
+      "hash": "6895a4db7a496ae3a690dee726ffc6c9f5a1dfb292d63b03afb0788baaf1aa80"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/2.ans": {
+      "mtimeMs": 1789268373444.1013,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/2.in": {
+      "mtimeMs": 1789268372313.347,
+      "hash": "747cea629f6f01c05fe2c72c18ee6ecc831aa64c1652771e5626dc92c6323bc2"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/3.ans": {
+      "mtimeMs": 1789268373453.1033,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/3.in": {
+      "mtimeMs": 1789268372313.3682,
+      "hash": "a40b7c55257f34fc5f7c5ab204bf3d43aa61c899cef9941d03f5abbe2fb6db5f"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/4.ans": {
+      "mtimeMs": 1789268373461.105,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/4.in": {
+      "mtimeMs": 1789268372313.3875,
+      "hash": "5ffbae497b072396f1c5b78d9258a4f0b674f5494115b653e2f8593861f72daa"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/5.ans": {
+      "mtimeMs": 1789268373469.107,
+      "hash": "f6fb09a6df232dae38c0bcaeab134dc0f1918dc5c7c61a39f4158ec1d884820b"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/5.in": {
+      "mtimeMs": 1789268372313.4104,
+      "hash": "b9e18a90a2b564ce1d472f4e7ab111fcccfac6738016ed21833b53541dcca137"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/6.ans": {
+      "mtimeMs": 1789268373476.1084,
+      "hash": "97c81ebc49d544151bd0b16cefa58f5ce4b87d5a723c5355c32bb789bb3ba28a"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/6.in": {
+      "mtimeMs": 1789268372313.4282,
+      "hash": "d0c81d33230808d697e34af4e2cd8ba011520bfc0ac85b3b17c3b2845af230a2"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/7.ans": {
+      "mtimeMs": 1789268373484.1104,
+      "hash": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/7.in": {
+      "mtimeMs": 1789268372313.4458,
+      "hash": "bbd08a1ba5a75caee654654dbe93789ec67acedd9f512a123fcf321d95f04665"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/8.ans": {
+      "mtimeMs": 1789268373491.1118,
+      "hash": "df9a59833ee1cad67920adc3033916d9e5e582041010bdaa36ee63fddd1bb90b"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/8.in": {
+      "mtimeMs": 1789268372313.4846,
+      "hash": "6865732a8ef7c23551ae78cb068b767f678024a41266aea6731cbaa5df7da63b"
+    },
+    "luogu/P1002 [NOIP 2002 普及组] 过河卒/data/generator.py": {
+      "mtimeMs": 1789268212482.139,
+      "hash": "57bb50186d420cd39174860919c4ad15f2997d48a7a95685b2f0c4d8d766e148"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/problem.md": {
-      "mtimeMs": 1788707152915.4104,
+      "mtimeMs": 1789228165213.808,
       "hash": "8225b3bccb76ea4874cd593c7872a2edd56f9672240adb5dca2030b9cb88d277"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/sol.cpp": {
-      "mtimeMs": 1788272015516.1396,
-      "hash": "255a43448e1fa6d66a2d21a7973fe13d67905b9176fac6b419c789d0d115057b"
+      "mtimeMs": 1789268265577.2136,
+      "hash": "ac14eebbe97dff1949c25f276885894feb51f782c5560751eede8ff06b80f5f7"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/Explanation.md": {
-      "mtimeMs": 1788707152916.9797,
+      "mtimeMs": 1789228165215.2263,
       "hash": "a528a426c47de5b4445af51684598475ba73142bbd7105aef09ea564b5fbffd7"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/Solution sol.md": {
-      "mtimeMs": 1788707152918.6265,
+      "mtimeMs": 1789228165216.9622,
       "hash": "db2371eb7b9056e4a13ecd520f6195adc8489da3eb64855610b0f41f66aeed25"
     },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/1.ans": {
+      "mtimeMs": 1789268373766.1738,
+      "hash": "3117b181de4d46b7ff8adb4c78adec272c019160d4adf27a901e90ec114e1845"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/1.in": {
+      "mtimeMs": 1789268373504.6248,
+      "hash": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/2.ans": {
+      "mtimeMs": 1789268373775.1758,
+      "hash": "de7e55cd172f2065828bdd6c2015c5e92fdd6271ab1bd0f30a5e15104e64678d"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/2.in": {
+      "mtimeMs": 1789268373504.6597,
+      "hash": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/3.ans": {
+      "mtimeMs": 1789268373783.1775,
+      "hash": "ed4ea85aeb9badc7d78cf58c5d2aa6d3be45e4371821c1be46132bced0c315f3"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/3.in": {
+      "mtimeMs": 1789268373504.6821,
+      "hash": "1121cfccd5913f0a63fec40a6ffd44ea64f9dc135c66634ba001d10bcf4302a2"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/4.ans": {
+      "mtimeMs": 1789268373791.1794,
+      "hash": "5c19babf1d6ceac9bd0556e76613d48b89f454b6822f7db4dc0fe2e1cb632d1c"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/4.in": {
+      "mtimeMs": 1789268373504.701,
+      "hash": "917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/5.ans": {
+      "mtimeMs": 1789268373798.181,
+      "hash": "928a8f37b647a0f2499d7ffabddd170af7c06e9ab28f52c8d9581ea58a9c2d02"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/5.in": {
+      "mtimeMs": 1789268373504.731,
+      "hash": "15d6b735540667e209a893cd98459b55974c496ab7bf92c66f9691bffdad0410"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/6.ans": {
+      "mtimeMs": 1789268373806.1826,
+      "hash": "a83d4e95b74740149d77d59d60dd4e4e9a4abd227eec79e545d9c2bd700f27df"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/6.in": {
+      "mtimeMs": 1789268373504.77,
+      "hash": "3d114c7699b2400d42199a4c73cc8a9d530e6ecd3fa55e6bbd177c730030882a"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/7.ans": {
+      "mtimeMs": 1789268373814.1846,
+      "hash": "d8864bb312174df3ed4abe128bf9174de7dec431e004c80568362479c13de9b9"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/7.in": {
+      "mtimeMs": 1789268373504.7874,
+      "hash": "dd150abe8be382e446fc333e19dcc2e82c05b85a49c9f00d933720c9fe4cfb6e"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/8.ans": {
+      "mtimeMs": 1789268373822.1863,
+      "hash": "ecde0566d513743bd0661813c238326293d9c4b13d5d79af898461df77b775fe"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/8.in": {
+      "mtimeMs": 1789268373504.8042,
+      "hash": "de6aeb89b0d91519a443ac503ea9e652f130752e5ecc78cbcffc3e0f04e4bbf0"
+    },
+    "luogu/P1014 [NOIP 1999 普及组] Cantor 表/data/generator.py": {
+      "mtimeMs": 1789268212482.419,
+      "hash": "92601d25da281e35bfc6fd9489216785180409a59627104c81846d4ed5d69dec"
+    },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/problem.md": {
-      "mtimeMs": 1788707152920.1794,
+      "mtimeMs": 1789228165218.759,
       "hash": "935f5c1bec65aaba970538bdde2e0439dc48fe23c4406ee9dc7e7fcbb8547a5e"
     },
     "luogu/P1014 [NOIP 1999 普及组] Cantor 表/sol.cpp": {
       "mtimeMs": 1788272588726.1958,
       "hash": "d245f52de70664de2edbb5ad85a2181ea8bec9f3c7f384b1330971009af4edf5"
     },
-    "luogu/P2748 [USACO16OPEN] Landscaping P/Explanation.md": {
-      "mtimeMs": 1788843204115.054,
+    "luogu/P1792 [国家集训队] 种树/Explanation.md": {
+      "mtimeMs": 1789270000152.7803,
+      "hash": "5c2f4edebf6d17e59f7ce38761b10b735e3aef95f39f2cb6129dfde703f0896f"
+    },
+    "luogu/P1792 [国家集训队] 种树/Solution sol.md": {
+      "mtimeMs": 1789266969039.0674,
+      "hash": "bd9c245b01fcd93eb6c60de1d8e97378f1ba92e9491be084959dc24a153a1b2b"
+    },
+    "luogu/P1792 [国家集训队] 种树/Solution sol_mcmf.md": {
+      "mtimeMs": 1789269987059.925,
+      "hash": "3fa9eec20060bfa9ba20c01161504515f8a16d8add47edb594879ef9d492f101"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/1.ans": {
+      "mtimeMs": 1789268375026.4556,
+      "hash": "68ddac8b47ef2d1acdbe3e974ef11b85bb62460412a8943d3ed10fce0a25f236"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/1.in": {
+      "mtimeMs": 1789268373836.9526,
+      "hash": "068b11f417c1e6dd8f47f091494bcea335198499321d7f035e0337fd76f11fbf"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/2.ans": {
+      "mtimeMs": 1789268375035.4575,
+      "hash": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/2.in": {
+      "mtimeMs": 1789268373836.9858,
+      "hash": "650f33c80c9f0407bc282d0b1f9ffcba37a7396cbbecbf99750b674cbef8d16b"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/3.ans": {
+      "mtimeMs": 1789268375043.4592,
+      "hash": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/3.in": {
+      "mtimeMs": 1789268373837.0046,
+      "hash": "894fe4b4df22610b389e042259ee6580b2c14022eab37cf19d1cd8c7464bc82c"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/4.ans": {
+      "mtimeMs": 1789268375051.461,
+      "hash": "a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/4.in": {
+      "mtimeMs": 1789268373837.0247,
+      "hash": "1b75acff124bb7f491313e8633fc8ac5370854c243b6ee671aae9f4c4c4d4695"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/5.ans": {
+      "mtimeMs": 1789268375059.463,
+      "hash": "68ddac8b47ef2d1acdbe3e974ef11b85bb62460412a8943d3ed10fce0a25f236"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/5.in": {
+      "mtimeMs": 1789268373837.0435,
+      "hash": "c9da9cf27642f0c7279c96dfbcd1fb13ae12bab5a5b724b0f33678e89f5ba3b9"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/6.ans": {
+      "mtimeMs": 1789268375067.4646,
+      "hash": "1b554fa7fd9c8c6271ec57a2722459cd82efdf0635fda401399dcf739b4aafdb"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/6.in": {
+      "mtimeMs": 1789268373837.0654,
+      "hash": "1958622b3055dc625653fa8ee556824fcf4eee15ecf21395d96bbff2dae271c6"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/7.ans": {
+      "mtimeMs": 1789268375104.473,
+      "hash": "da7694cdb39a7a81880825eb17b190806a97b1256b5688cef03a3e4fe3e85458"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/7.in": {
+      "mtimeMs": 1789268373881.1997,
+      "hash": "13e0398296ad8b01b5d779a91de47aca69108731fd507ad1965116ece20e8db4"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/8.ans": {
+      "mtimeMs": 1789268375143.4814,
+      "hash": "b4edcddebbae298b56b6cfdbc227f45c01be811ecda11d2ba3ba86775351823f"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/8.in": {
+      "mtimeMs": 1789268373924.2092,
+      "hash": "aa90754c5cf8bd863cbcb38da605006019e6c1ad4a2ec47a7228b67cae24023d"
+    },
+    "luogu/P1792 [国家集训队] 种树/data/generator.py": {
+      "mtimeMs": 1789268212482.419,
+      "hash": "df661d39b6c8aaa32b019773e5a2a16b44ed25767eafb7837064ffe6ea0baadd"
+    },
+    "luogu/P1792 [国家集训队] 种树/problem.md": {
+      "mtimeMs": 1789266953766.031,
+      "hash": "95016d752e518e3231023109e3984e34a261df0316340a876f0539d656ff7a51"
+    },
+    "luogu/P1792 [国家集训队] 种树/sol.cpp": {
+      "mtimeMs": 1789266965888.1084,
+      "hash": "b259022ee55e26be9b3e01a7def320ea546181e0d20d7a5cfa92c9af07a22ae2"
+    },
+    "luogu/P1792 [国家集训队] 种树/sol_mcmf.cpp": {
+      "mtimeMs": 1789269969837.366,
+      "hash": "c0b6e1d23bdbfc772209b216ae1e1669f2474a76ffe65ea76378c8ff607981b3"
+    },
+    "luogu/P2014 CTSC1997 选课/Solution sol.md": {
+      "mtimeMs": 1789268518128.7708,
+      "hash": "3c9a04115962f1c196e35e0158fef0e0d4d41dd7e7fd182d6628be317a294a7e"
+    },
+    "luogu/P2014 CTSC1997 选课/a.out": {
+      "mtimeMs": 1789263821071.6382,
+      "hash": "0b794b447863d3cb87052062a3a37520c0441fbca02ce79fcbfb159bdb06ad7e"
+    },
+    "luogu/P2014 CTSC1997 选课/data/1.ans": {
+      "mtimeMs": 1789268376219.7197,
+      "hash": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58"
+    },
+    "luogu/P2014 CTSC1997 选课/data/1.in": {
+      "mtimeMs": 1789268375160.4854,
+      "hash": "6d6ed248835ba36a7b49ff1c6687a9a7957ce275027f12a57d21906c48280e87"
+    },
+    "luogu/P2014 CTSC1997 选课/data/2.ans": {
+      "mtimeMs": 1789268376228.7217,
+      "hash": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58"
+    },
+    "luogu/P2014 CTSC1997 选课/data/2.in": {
+      "mtimeMs": 1789268375161.2598,
+      "hash": "c14f76b7920d34677d1a69d7d0c13a8c419d49746326acca69af5ae516b3c489"
+    },
+    "luogu/P2014 CTSC1997 选课/data/3.ans": {
+      "mtimeMs": 1789268376237.7236,
+      "hash": "f4ccd05b3271c386ee55d9876c7450012a3b361e5065c09dc22075e38b3cc35c"
+    },
+    "luogu/P2014 CTSC1997 选课/data/3.in": {
+      "mtimeMs": 1789268375161.281,
+      "hash": "9fb7ccea1f20063594fa07f57d8232f0a86cf5ab70b2d30d42119ca4330e8c91"
+    },
+    "luogu/P2014 CTSC1997 选课/data/4.ans": {
+      "mtimeMs": 1789268376245.7256,
+      "hash": "5378796307535df3ec8d8b15a2e2dc5641419c3d3060cfe32238c0fa973f7aa3"
+    },
+    "luogu/P2014 CTSC1997 选课/data/4.in": {
+      "mtimeMs": 1789268375161.399,
+      "hash": "9b8a3edaeaca1dd6fe36d9d9e9bdd4228f65d08b51b0c77c61a78c4eb230360b"
+    },
+    "luogu/P2014 CTSC1997 选课/data/5.ans": {
+      "mtimeMs": 1789268376254.7275,
+      "hash": "03c68912fb8a8ad8338a3b8e66e87ac366abe895f6c4e57abbadf397bcee8476"
+    },
+    "luogu/P2014 CTSC1997 选课/data/5.in": {
+      "mtimeMs": 1789268375161.5056,
+      "hash": "5159c04b52cc8259802a082ac4ccda3eef6c0620d9e13232d7c242b520aeccc4"
+    },
+    "luogu/P2014 CTSC1997 选课/data/6.ans": {
+      "mtimeMs": 1789268376262.7292,
+      "hash": "c4204f22d5cab7a26123b8db77f855d7aedf484846b62290f4cb3cc15d255a59"
+    },
+    "luogu/P2014 CTSC1997 选课/data/6.in": {
+      "mtimeMs": 1789268375161.6963,
+      "hash": "00481fbe431d4911332579845309ba62fe93e0b1ff25583b2dacb6c89537ba9a"
+    },
+    "luogu/P2014 CTSC1997 选课/data/7.ans": {
+      "mtimeMs": 1789268376269.7307,
+      "hash": "219171393cf5156afbec4cee42b978d3c7a25122e10651d7fb3332d87b7a19cf"
+    },
+    "luogu/P2014 CTSC1997 选课/data/7.in": {
+      "mtimeMs": 1789268375161.7583,
+      "hash": "80c454e48aac4c5a15588d5aa2243b2bd536c172e58232406c4ec0e92dafd01c"
+    },
+    "luogu/P2014 CTSC1997 选课/data/8.ans": {
+      "mtimeMs": 1789268376278.7327,
+      "hash": "b5cf01d96556f8854c059b24442227b30c3ab4b6d1667008869081604e42861a"
+    },
+    "luogu/P2014 CTSC1997 选课/data/8.in": {
+      "mtimeMs": 1789268375161.8743,
+      "hash": "47c2b9a1cc3a129e17e58a33e8af376e601ce39e840b1ac918e95b5666377012"
+    },
+    "luogu/P2014 CTSC1997 选课/data/generator.py": {
+      "mtimeMs": 1789268226228.4556,
+      "hash": "c5dcaaca2715edcf143a8132959dc9165c78f4b03f7bdcc6d8ce81c7e05177bd"
+    },
+    "luogu/P2014 CTSC1997 选课/in": {
+      "mtimeMs": 1789260476515.8545,
+      "hash": "e30729cd288a6aa133d715ad9a1b9420058b19f2d3e52463689982f9b3a4a4bb"
+    },
+    "luogu/P2014 CTSC1997 选课/problem.md": {
+      "mtimeMs": 1789260416234.3667,
+      "hash": "97e4a4db476e1cea0a8a956472cdf951323807551750745170f9cc959837843b"
+    },
+    "luogu/P2014 CTSC1997 选课/sol.cpp": {
+      "mtimeMs": 1789268265577.2136,
+      "hash": "d0a183d227c26540f35becd7934ee4075c7895be2ffe503c6a3738eb3220fe89"
+    },
+    "luogu/P2014 CTSC1997 选课/treeDP.cpp": {
+      "mtimeMs": 1789263817956.266,
+      "hash": "6c4e5fb464cee07fadde43345b1278abf652f04982bf393d1998867fee5c70d6"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/Explanation.md": {
+      "mtimeMs": 1789228165237.213,
       "hash": "f67aa8ffb910c48ba93454dc794a2c5c7604f82d72acf52ecad45371a8927f98"
     },
-    "luogu/P2748 [USACO16OPEN] Landscaping P/Solution sol.md": {
-      "mtimeMs": 1788843184747.4216,
+    "luogu/P2748 USACO16OPEN Landscaping P/Solution sol.md": {
+      "mtimeMs": 1789228165235.421,
       "hash": "19815cea4925846e02f31cd59260bfae9a0002e382ee518d91df8bd626bb6ac1"
     },
-    "luogu/P2748 [USACO16OPEN] Landscaping P/problem.md": {
-      "mtimeMs": 1788842717292.5283,
-      "hash": "1c51c2b8394980ecf77c4c8c3f87fd9d5d592a16a1bf9f4703675fdc17e9850a"
+    "luogu/P2748 USACO16OPEN Landscaping P/data/1.ans": {
+      "mtimeMs": 1789268377508.0027,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
     },
-    "luogu/P2748 [USACO16OPEN] Landscaping P/sol.cpp": {
+    "luogu/P2748 USACO16OPEN Landscaping P/data/1.in": {
+      "mtimeMs": 1789268376295.393,
+      "hash": "b4660c10714149377fd83af52d2fb05495d6ba8e56fb70b0253fb9659e28f2c7"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/2.ans": {
+      "mtimeMs": 1789268377521.0054,
+      "hash": "a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/2.in": {
+      "mtimeMs": 1789268376295.431,
+      "hash": "425cb03ea6f23dd33843f1f9fb94b8f0efa803a4b4ad497f1e5fbf86777b50af"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/3.ans": {
+      "mtimeMs": 1789268377535.0085,
+      "hash": "5a06a936ced255f8b9201b84beeae071cc80dbe55a0d65d05274c90d3a1c3624"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/3.in": {
+      "mtimeMs": 1789268376295.4507,
+      "hash": "230226a5c9ceb394ebce185f0b002b44a78c42e713c7e8de605748ca1c3b114f"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/4.ans": {
+      "mtimeMs": 1789268377550.0117,
+      "hash": "c11e3f4837efde2441e23a7b9da02131f53bf59fddeb7147c4ab81afe400460f"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/4.in": {
+      "mtimeMs": 1789268376295.4724,
+      "hash": "d81ef58fb8c6c0b6ad1f6b71e5eec4d0b97c5f308526b3b1e85d9d7881b7a7ac"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/5.ans": {
+      "mtimeMs": 1789268377573.0168,
+      "hash": "49a0c7cf770037529e664de607aee26a7e1fe0c1083163b44d45a9820994398a"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/5.in": {
+      "mtimeMs": 1789268376337.7458,
+      "hash": "b78534527c57496df9d53dcae10dc9d096f4627cd20ec0d8220232a9102a446e"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/6.ans": {
+      "mtimeMs": 1789268377620.027,
+      "hash": "ab51863d68f5677f45c8af4efccbde9328cb6a5d1993cb964b52ef558b55bcbd"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/6.in": {
+      "mtimeMs": 1789268376340.7463,
+      "hash": "22d3ba64fd5ad37a7badbe08603adeab948b8a2e2c540e033aa4f2c6550f57d6"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/7.ans": {
+      "mtimeMs": 1789268377643.0322,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/7.in": {
+      "mtimeMs": 1789268376382.7556,
+      "hash": "79eb62694fec3c20185e1f04f12feff53846a29591ffe7c0cfb10b836610264e"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/8.ans": {
+      "mtimeMs": 1789268377666.037,
+      "hash": "145ab2c3e220a50005011cbeff8b067fedb29a6e73093504b974127c792766d9"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/8.in": {
+      "mtimeMs": 1789268376421.7642,
+      "hash": "30cfbac7327fbcfecbedce5851f3cfb370987e62ed02a8f209ce1c72c4030979"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/data/generator.py": {
+      "mtimeMs": 1789268226229.8777,
+      "hash": "125d40200e34bf2875510662a4095f3d59c9c6dcf8fd7e335bff1cd5721a7f12"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/problem.md": {
+      "mtimeMs": 1789228165238.8977,
+      "hash": "bf5c3b4dc616e5262ca64f44d7248325a9f532bd7904d090329093738c267383"
+    },
+    "luogu/P2748 USACO16OPEN Landscaping P/sol.cpp": {
       "mtimeMs": 1788843184746.9294,
       "hash": "9653f9d85a78e2c2a5ead7f224b8f114fbffadc7de7126bcb64dc66e35ffd660"
     },
+    "luogu/P4025 [PA 2014] Bohater/Solution sol.md": {
+      "mtimeMs": 1789268519487.8875,
+      "hash": "942bdae375187ae702d9d3ddb942e25fcb03968848a4536225e9cd10803c2bcd"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/1.ans": {
+      "mtimeMs": 1789268379110.351,
+      "hash": "54427124e2b070a2957c51b997e59547c98af0b4759652a39cb21c069b84e417"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/1.in": {
+      "mtimeMs": 1789268377685.7585,
+      "hash": "5779b3048ba6e81d022fd4e7a33342babb51ff307286ead42735b0a34f9e60e8"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/2.ans": {
+      "mtimeMs": 1789268379118.3528,
+      "hash": "a8d638d4bf8da9d9d628083901244e98eb06e50e37e0f960640fa47a8d67fa4f"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/2.in": {
+      "mtimeMs": 1789268377685.7993,
+      "hash": "c221ccb972b90fd69ed56c499696d6da45ecb8bcf368802b673b4078976dc4ea"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/3.ans": {
+      "mtimeMs": 1789268379126.3545,
+      "hash": "ab0adc87b20753447c0c771908bf14594d464adeae2885ba3641e07758703947"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/3.in": {
+      "mtimeMs": 1789268377685.8242,
+      "hash": "b9b296f7a56237107bfef6f45e00ce830876ff805207ba2fed0852543da5365b"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/4.ans": {
+      "mtimeMs": 1789268379152.36,
+      "hash": "2dd3cf5dd8949acf7e7273d3edf20e19c2e543e32bbcc9b1397a66045a383620"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/4.in": {
+      "mtimeMs": 1789268377737.0527,
+      "hash": "988ef9b9be4627883af9c935c5bf4554592dcfc3aaec574e6c4654fef08701f6"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/5.ans": {
+      "mtimeMs": 1789268379172.3645,
+      "hash": "a8d638d4bf8da9d9d628083901244e98eb06e50e37e0f960640fa47a8d67fa4f"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/5.in": {
+      "mtimeMs": 1789268377752.056,
+      "hash": "4b9f25ed2e6cf50710b0eb794bb03240e24c16075c0a1655fb4dcca0e8677563"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/6.ans": {
+      "mtimeMs": 1789268379198.37,
+      "hash": "d8d1297223c7eec43c0ca622ccb5f3bae5d0e5fe902f982ae106668c1cf6646e"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/6.in": {
+      "mtimeMs": 1789268377834.074,
+      "hash": "6c34212a00736036e235ba8e15bab741fc03c993de8e2f0b3219942d307b70fe"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/7.ans": {
+      "mtimeMs": 1789268509633.0178,
+      "hash": "a8d638d4bf8da9d9d628083901244e98eb06e50e37e0f960640fa47a8d67fa4f"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/7.in": {
+      "mtimeMs": 1789268509611.0159,
+      "hash": "33980ffd6e7e4d7eb46e87e8743399caf94c39bfd067b4c41ce3b4d239df4132"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/8.ans": {
+      "mtimeMs": 1789268379251.3813,
+      "hash": "9d2961ca7f62a9c1c08cdc03edeaa47fa4e55ea6fe05a956112fd2c5b7923873"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/8.in": {
+      "mtimeMs": 1789268377885.085,
+      "hash": "6d55e7d30264ae3f85d0d2c22543113868b32dca6ff9841dfbdd2aae4d2edcc2"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/checker.py": {
+      "mtimeMs": 1789268486174.7244,
+      "hash": "9dfc46247fa2fe2f8f649d5fa631885f6fafe581796b9d1ba8f7a58e80a31ee2"
+    },
+    "luogu/P4025 [PA 2014] Bohater/data/generator.py": {
+      "mtimeMs": 1789268504411.5356,
+      "hash": "31466217329def19acccb380aadfa92e0abfbfc491a57f5249ec58c6e9bb358a"
+    },
+    "luogu/P4025 [PA 2014] Bohater/problem.md": {
+      "mtimeMs": 1789263888350.0632,
+      "hash": "e990142523bdaf0f4fd8bdec90f5d9b7fae371381a4e40f036b2c9db57c7b344"
+    },
+    "luogu/P4025 [PA 2014] Bohater/sol.cpp": {
+      "mtimeMs": 1789268265577.2136,
+      "hash": "8367dcf3f90c4313fd4e777f8fd44af76e9c680bc4dc48a591b66d1d959e1a42"
+    },
     "luogu/P5985 [PA 2019] Muzyka pop/Solution p5985-muzyka-pop.md": {
-      "mtimeMs": 1788707152909.0173,
+      "mtimeMs": 1789228165208.4893,
       "hash": "b44ec93d6b5afca21330fa15bdf6d181576507f50d5af8374ad02aeeb89e9060"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/1.ans": {
+      "mtimeMs": 1789268380445.6382,
+      "hash": "f0b5c2c2211c8d67ed15e75e656c7862d086e9245420892a7de62cd9ec582a06"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/1.in": {
+      "mtimeMs": 1789268379271.1694,
+      "hash": "71e17e7889484f3df84f39368f934b06694132ba025dc1f702cc2d4033db0b5a"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/2.ans": {
+      "mtimeMs": 1789268380453.64,
+      "hash": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/2.in": {
+      "mtimeMs": 1789268379271.2053,
+      "hash": "2642928648d31eeaabd23428f15c08264626be3b338cdce4f498f4a618f831a8"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/3.ans": {
+      "mtimeMs": 1789268380462.6418,
+      "hash": "25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/3.in": {
+      "mtimeMs": 1789268379271.2373,
+      "hash": "4bc8c74ac9ead9d8fc8f4b17b552db7896063aa50c8e8babb7dd513588a10630"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/4.ans": {
+      "mtimeMs": 1789268380760.7056,
+      "hash": "1d79bb8faa94b91297a13ee26ce6ce5e06561029f808a0c8010e6360d8f0bad7"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/4.in": {
+      "mtimeMs": 1789268379271.344,
+      "hash": "6889b60b87350f8e5476c6a8787e80b9c2bd3d269d9700c85b2806916570be42"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/5.ans": {
+      "mtimeMs": 1789268380805.7153,
+      "hash": "f886411870485013c28373f827029450d0b8c0213e83b0a9b19061179e24e73c"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/5.in": {
+      "mtimeMs": 1789268379271.4253,
+      "hash": "78f20f55c545d6f1748cea42b9b60b7a4fae66ee2a7c796b6aa88f3fdc0224c8"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/6.ans": {
+      "mtimeMs": 1789268380814.7173,
+      "hash": "27f613f8e3e66b7a5afe97563a6bf5dcdbf1f47356e0dccb52d2dc8c5fe30093"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/6.in": {
+      "mtimeMs": 1789268379271.448,
+      "hash": "b4d8e7c53a8fc72afac61d1e7b27f169b44a217365ae9bea8483d1fcef1b996d"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/7.ans": {
+      "mtimeMs": 1789268381112.7808,
+      "hash": "a487254bd5d1d751d0d9b7a80368ff91e7520c2781c26f50f3070b5bf6c049b7"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/7.in": {
+      "mtimeMs": 1789268379271.4814,
+      "hash": "69e82e348e3912707981267ca148d2f875175ad47849608f5ff28f1b7c89c8cb"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/8.ans": {
+      "mtimeMs": 1789268381129.7844,
+      "hash": "ecbd95bc55d0562829274c8ec6c70689b6a83d4fe8c40fc13f794d70f5b6ba39"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/8.in": {
+      "mtimeMs": 1789268379271.5073,
+      "hash": "c01718847f22043e8aa3fd7905bcbc0264586745a58b3ed8d77d95c759e53f0e"
+    },
+    "luogu/P5985 [PA 2019] Muzyka pop/data/generator.py": {
+      "mtimeMs": 1789268258586.9448,
+      "hash": "b0041ccd0a7ae16129574117b62e93d6971904f7743f5aede8714af7a6e114d2"
     },
     "luogu/P5985 [PA 2019] Muzyka pop/p5985-muzyka-pop.cpp": {
       "mtimeMs": 1788270711397.5237,
       "hash": "815069da3467aec68f355225b7724bbad84704329e1e17d5b695c2cf5cc65738"
     },
     "luogu/P5985 [PA 2019] Muzyka pop/problem.md": {
-      "mtimeMs": 1788707152911.82,
+      "mtimeMs": 1789228165210.3367,
       "hash": "1c6b64a4b1057bf63d6318e45667e136f64fbfc3ef05be12be69b5326a48fdc1"
     },
     "luogu/P6691 选择题/Explanation.md": {
-      "mtimeMs": 1788707152921.8242,
+      "mtimeMs": 1789228165220.5886,
       "hash": "94546cf7c34c35266ba9602755af6a3ad23eec2ec5370fe915916c6c33715f42"
     },
     "luogu/P6691 选择题/Solution sol.md": {
-      "mtimeMs": 1788707152923.4812,
+      "mtimeMs": 1789228165222.3813,
       "hash": "ff3c386f2a385ef76425ed305161aed3e879f84aa8d26b7b8ddf1fdcc7d45da8"
     },
+    "luogu/P6691 选择题/data/1.ans": {
+      "mtimeMs": 1789268383272.2373,
+      "hash": "3f5ab58afbb1344f691b07d75d96c38425f4b208ad9e72e4ad2581fb4e89acde"
+    },
+    "luogu/P6691 选择题/data/1.in": {
+      "mtimeMs": 1789268381149.8687,
+      "hash": "cad1e223d886c696eca314cc2aea5179020c815e031be6ae30f4646b3dcfd855"
+    },
+    "luogu/P6691 选择题/data/2.ans": {
+      "mtimeMs": 1789268383281.2393,
+      "hash": "16e7335853b0d849f5ea31c3e793adbf4cc599fc058244cfb5aca10823e24844"
+    },
+    "luogu/P6691 选择题/data/2.in": {
+      "mtimeMs": 1789268381149.902,
+      "hash": "20090a776827e1f0c25e51b9879dc67de7ede1aba56b84930147a7d74856ad85"
+    },
+    "luogu/P6691 选择题/data/3.ans": {
+      "mtimeMs": 1789268383288.2407,
+      "hash": "8a34b0230d69c6d27486f9030cdf944595e28e541654d64d63d39cdd7a2f2def"
+    },
+    "luogu/P6691 选择题/data/3.in": {
+      "mtimeMs": 1789268381149.9253,
+      "hash": "aa3ab128b2d30c51eeef69f74020f6a855243a4380119811ef3e80088c790d6f"
+    },
+    "luogu/P6691 选择题/data/4.ans": {
+      "mtimeMs": 1789268383296.2424,
+      "hash": "d3cea8d78118d5fb34bdc20899be508550d06e1c4e940c10a1b19008f68cdfab"
+    },
+    "luogu/P6691 选择题/data/4.in": {
+      "mtimeMs": 1789268381150.4475,
+      "hash": "cf3aef800fccd9d6b09bc6b81a6ab18bb00541fa4a46cdc41258d04959640a5d"
+    },
+    "luogu/P6691 选择题/data/5.ans": {
+      "mtimeMs": 1789268383430.2705,
+      "hash": "d3cea8d78118d5fb34bdc20899be508550d06e1c4e940c10a1b19008f68cdfab"
+    },
+    "luogu/P6691 选择题/data/5.in": {
+      "mtimeMs": 1789268381674.9001,
+      "hash": "0d1047a75e3ddf9fb4ef47bc95d44c7e615e385cadd56b73a216be2ff2941bab"
+    },
+    "luogu/P6691 选择题/data/6.ans": {
+      "mtimeMs": 1789268383498.2847,
+      "hash": "fa04596486ec5e83a69337b5e78cfcf7a03a9f01e2184a6f7c5514fbfe4d6c73"
+    },
+    "luogu/P6691 选择题/data/6.in": {
+      "mtimeMs": 1789268381917.952,
+      "hash": "9cb8335299e020de2cc42f9b2794e022e26d54288ecf2db81e3adfcba20df5ee"
+    },
+    "luogu/P6691 选择题/data/7.ans": {
+      "mtimeMs": 1789268383526.2905,
+      "hash": "9e2ef3a3cbc33dbafb1483c6527233900d383bf17f987205f062e4ae89601ae9"
+    },
+    "luogu/P6691 选择题/data/7.in": {
+      "mtimeMs": 1789268382009.9714,
+      "hash": "3ad55d5e023a1bf1f324594bef09af32eb145ebc68bb6fd494fdfb8666be4054"
+    },
+    "luogu/P6691 选择题/data/8.ans": {
+      "mtimeMs": 1789268383566.299,
+      "hash": "01240b99e924620d19885ffac3e5089425c223acf60506b09409d75962812268"
+    },
+    "luogu/P6691 选择题/data/8.in": {
+      "mtimeMs": 1789268382190.0095,
+      "hash": "74bf64410d483d52140704087d35b2c67bab847561ae7619271fde6442496239"
+    },
+    "luogu/P6691 选择题/data/generator.py": {
+      "mtimeMs": 1789268365934.3655,
+      "hash": "73adb9c7ef36ac87f9ec1e06d379d55609a20822fbb177a8d732ec9a2e1388c4"
+    },
     "luogu/P6691 选择题/problem.md": {
-      "mtimeMs": 1788707152925.1572,
+      "mtimeMs": 1789228165224.2285,
       "hash": "60203674007ed52a5584cb1189133b4956a4b405b689a195eb267681f3cb2d0a"
     },
     "luogu/P6691 选择题/sol.cpp": {
       "mtimeMs": 1788655453521.2979,
       "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
+    },
+    "luogu/greedy.cpp": {
+      "mtimeMs": 1789269770545.8054,
+      "hash": "bab23c154c8ca6de90b36e03ed99ad2d61d75093196c2c9425b1c34b30d1aa22"
     },
     "notes/ML/.remember/.gitignore": {
       "mtimeMs": 1788672088411.2434,
@@ -186,7 +934,7 @@
       "hash": "94cb2ae689224181dfdabeb651cecfab51e9a2ebfa98e425d7496e5f0f349503"
     },
     "notes/ML/.remember/now.md": {
-      "mtimeMs": 1788707152944.5212,
+      "mtimeMs": 1789228165247.5532,
       "hash": "ad640719bb7c7eaa266037bdc67ba7a3bcf312769456e70f98a54fa585522faa"
     },
     "notes/ML/.remember/tmp/capture-alive": {
@@ -230,72 +978,100 @@
       "hash": "8d0a6dff6d1dba56549bf9868737ee55179254fa984d68445cd31829e7bf33d9"
     },
     "notes/ML/.remember/today-2026-09-06.md": {
-      "mtimeMs": 1788707152942.7126,
+      "mtimeMs": 1789228165246.1626,
       "hash": "7a135997020c7f109c11ff0c086d4fd4acf4574c40d0a48e7619fdf185ffacf3"
     },
     "notes/ML/1.0 History & Philosophy.md": {
-      "mtimeMs": 1788707152945.9695,
+      "mtimeMs": 1789228165268.746,
       "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
     },
-    "notes/ML/1.1线性代数基础.md": {
-      "mtimeMs": 1788707152947.6218,
-      "hash": "44dcd31019b0b8418889dab1461dcc61a058bc7e6b786c430d5937f29a047ec3"
-    },
-    "notes/ML/1.2导数.md": {
-      "mtimeMs": 1788707152949.335,
-      "hash": "d748b4cffb48552d4c5bd12a4f0408952f599520283b7996130d74abcf0713f0"
-    },
-    "notes/ML/1.3概率论与信息论.md": {
-      "mtimeMs": 1788707152950.9692,
-      "hash": "fda269fff942c7df039504e4c51e4ffa41ef6466f32ec186a3f74a135026846f"
-    },
     "notes/ML/10.强化学习.md": {
-      "mtimeMs": 1788707152952.3416,
+      "mtimeMs": 1789228165269.9346,
       "hash": "74a88338d0a0baf647da487e6fd3e9c8100101ca536d918127659b3ffc8737f8"
     },
     "notes/ML/2.Metrics.md": {
-      "mtimeMs": 1788707152954.1165,
+      "mtimeMs": 1789228165271.6707,
       "hash": "930ac87a6dfe520d7e4c0642f8ee67ce9dd73b6cae413440f277816eaa8a8d49"
     },
     "notes/ML/3.决策树.md": {
-      "mtimeMs": 1788707152955.7864,
+      "mtimeMs": 1789228165272.946,
       "hash": "412a08585461942a3039d30d436d101542868bddd132e69ebfef8f6386d97bce"
     },
     "notes/ML/4.0 MLP.md": {
-      "mtimeMs": 1788707152957.585,
+      "mtimeMs": 1789228165274.4885,
       "hash": "f298caef0b310cc28e5dc52b254c97b76912f9c498cb182e5ba6aca0fda68f14"
     },
     "notes/ML/4.1 非线性层.md": {
-      "mtimeMs": 1788707152959.5752,
+      "mtimeMs": 1789228165276.1821,
       "hash": "5205b11d608361e2ab755a7561ec0b5fe63c827ac236c4845a8c2eac42d8e4fc"
     },
     "notes/ML/4.2 Optimizer.md": {
-      "mtimeMs": 1788707152961.2275,
+      "mtimeMs": 1789228165277.9998,
       "hash": "a1d428d78d8a2717eac77a55b70b15c65647283a6f71fbede9d11d74e3060c04"
     },
     "notes/ML/5.Transformer Basis.md": {
-      "mtimeMs": 1788707152962.6855,
+      "mtimeMs": 1789228165279.708,
       "hash": "3613a04d72dac71ca1ed2858dddfb4214e5fad2e66f61f7b53b5bb2ab9cd11c2"
     },
     "notes/ML/6.RNN.md": {
-      "mtimeMs": 1788707152964.3035,
+      "mtimeMs": 1789228165281.521,
       "hash": "b0c28bc70de5ad8fa2a19ac099ad85f116d77a8ec54f423da6c988a48b060461"
     },
     "notes/ML/7.Vision.md": {
-      "mtimeMs": 1788707152966.2317,
+      "mtimeMs": 1789228165283.028,
       "hash": "012662459fb80cc78ab249f10735cc94adacafb14dcaf48ea9ac912f53ca7f84"
     },
-    "notes/ML/8.Data Processing.md": {
-      "mtimeMs": 1788707152967.94,
-      "hash": "9102a607edc364486e4e760c100ac35d24d5e9ee4593b0a576d36fdf9a08646e"
-    },
-    "notes/ML/9.降维.md": {
-      "mtimeMs": 1788707152969.6375,
-      "hash": "a82743dcd269e3f28aa349d6784221fe2520150fd24f311cb261395c9d85bb88"
-    },
     "notes/ML/index.md": {
-      "mtimeMs": 1788707152971.4312,
-      "hash": "868c4e7ebd61dd5362c8a94153c80a0613ae38a8b2c342d3be2c1157915698f5"
+      "mtimeMs": 1789229249446.581,
+      "hash": "8b6ae756f0d816d884bb85006279876f12b2c6563adecf83939c8751b9b53f14"
+    },
+    "notes/ML/数学基础/0.推荐书目.md": {
+      "mtimeMs": 1789228165265.364,
+      "hash": "0ce9f4e56c668a724a9f61030bf5b00d069947cbc4d693f599c184a9e000dd4f"
+    },
+    "notes/ML/数学基础/1.1线性代数基础.md": {
+      "mtimeMs": 1789228165259.9956,
+      "hash": "44dcd31019b0b8418889dab1461dcc61a058bc7e6b786c430d5937f29a047ec3"
+    },
+    "notes/ML/数学基础/1.2导数.md": {
+      "mtimeMs": 1789228165261.6748,
+      "hash": "ef2c957fc15739049a9289864bd66c039e89e65a66dfea5a150608599cb95701"
+    },
+    "notes/ML/数学基础/1.3概率论与信息论.md": {
+      "mtimeMs": 1789228165263.5354,
+      "hash": "fda269fff942c7df039504e4c51e4ffa41ef6466f32ec186a3f74a135026846f"
+    },
+    "notes/ML/数学基础/Error=Bias+Var+noise.md": {
+      "mtimeMs": 1789228165267.0908,
+      "hash": "89ef4a07190ac0d47c8f6cca426f6f96f572cf12dfb29a5a9b520b1eecf15825"
+    },
+    "notes/ML/过时的模型/GMM.md": {
+      "mtimeMs": 1789228165252.6028,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/过时的模型/SVM.md": {
+      "mtimeMs": 1789228165258.4868,
+      "hash": "1837b98005f045940a01211bb9b60c91a8ecb816932dd4bbd696ab57d4f3dffd"
+    },
+    "notes/ML/过时的模型/index.md": {
+      "mtimeMs": 1789228165255.2307,
+      "hash": "4d65c9927b1bd950f20e66537ba52ee9e0a907ea6e3706de9a1b651a71c373f0"
+    },
+    "notes/ML/过时的模型/聚类.md": {
+      "mtimeMs": 1789228165255.6025,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/高级技巧/多模型集成.md": {
+      "mtimeMs": 1789228165250.8513,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "notes/ML/高级技巧/数据清洗 & 类别平衡.md": {
+      "mtimeMs": 1789228165250.75,
+      "hash": "66b2be31adc982860a40f09242b43cc6c19ff3e282589b969e4e51fe81988a5c"
+    },
+    "notes/ML/高级技巧/降维.md": {
+      "mtimeMs": 1789228165249.3145,
+      "hash": "a82743dcd269e3f28aa349d6784221fe2520150fd24f311cb261395c9d85bb88"
     }
   }
 }

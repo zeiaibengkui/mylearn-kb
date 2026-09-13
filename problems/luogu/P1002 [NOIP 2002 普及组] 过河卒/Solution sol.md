@@ -1,7 +1,7 @@
 ---
 title: Solution sol
 ---
-Submitted 2026-09-01 — all 1 sample case(s) passed.
+Submitted 2026-09-13 — all 1 sample case(s) passed.
 
 ```cpp
 #include <bits/stdc++.h>
@@ -18,9 +18,10 @@ int main() {
     const int dy[8] = {1, 2, 2, 1, -1, -2, -2, -1};
 
     vector<vector<char>> blocked(n + 1, vector<char>(m + 1, 0));
-    blocked[hx][hy] = 1;
-    for (int k = 0; k < 8; ++k) {
-        int x = hx + dx[k], y = hy + dy[k];
+    // The horse's coordinates are bounded by 20, not by the board, so it (and
+    // any of its control points) may fall outside the n x m board.
+    for (int k = -1; k < 8; ++k) {
+        int x = hx + (k < 0 ? 0 : dx[k]), y = hy + (k < 0 ? 0 : dy[k]);
         if (0 <= x && x <= n && 0 <= y && y <= m) blocked[x][y] = 1;
     }
 
