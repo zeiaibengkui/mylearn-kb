@@ -1,8 +1,11 @@
-// myLearn VitePress site — copied into the project by `myLearn site setup`.
+// myLearn VitePress site — cloned into a project by `myLearn init --online`.
 // The project root IS the docs root: problems/ + notes/ render in place, no
-// generation step. Run vitepress from the project root (`myLearn site dev`,
-// the package.json scripts, or the CI workflow) — the sidebar walker uses
-// process.cwd().
+// generation step. Run vitepress from the project root (the package.json
+// scripts or the CI workflow) — the sidebar walker uses process.cwd().
+//
+// Two extra pages are generated from the tree itself: /timeline (every note by
+// date, from the file mtimes) and /graph (notes as nodes, references as edges,
+// cytoscape). Both are data loaders — see timeline.data.ts / graph.data.ts.
 //
 // GitHub Pages: repo sites live under /<repo>/ — the scaffolded workflow
 // sets MYLEARN_BASE to /<git repo name>/; user sites (<user>.github.io)
@@ -72,7 +75,11 @@ const sitemapUrls: string[] = [];
 // hoisted + annotated so the extra `giscus` key types cleanly alongside the
 // default theme's config (background: VitePress's ThemeConfig is not augmentable)
 const themeConfig: DefaultTheme.Config & { giscus?: GiscusConfig } = {
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+        { text: "Home", link: "/" },
+        { text: "Timeline", link: "/timeline" },
+        { text: "Graph", link: "/graph" },
+    ],
     sidebar: buildSidebar(process.cwd()),
     outline: { level: [2, 3] },
     search: { provider: "local" },

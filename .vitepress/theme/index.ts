@@ -1,6 +1,10 @@
 // Default theme + a breadcrumb above the doc content (doc-before) and giscus
 // comments below it (doc-after) when the config carries a giscus block.
-// Copied into the project's .vitepress/theme/ by `myLearn site setup`.
+//
+// Timeline.vue / RelationGraph.vue are deliberately NOT registered here: each
+// imports its own build-time data, which would then ride along in this shared
+// chunk on every page (and grow with the knowledge base). The pages that want
+// them import them directly — see /timeline.md and /graph.md.
 
 import { defineComponent, h } from "vue";
 import DefaultTheme from "vitepress/theme";

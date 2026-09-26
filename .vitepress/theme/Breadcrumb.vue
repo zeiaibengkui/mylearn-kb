@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import { computed } from "vue";
-import { useData } from "vitepress";
+import { useData, withBase } from "vitepress";
 
 // Crumbs from the source page path: problems/x/y/problem.md and every
 // index.md collapse to their directory ("/problems/x/y/"), matching the
 // config's rewrites + cleanUrls. Home has no path → no crumbs.
+// Links go through withBase: the site is served under /<repo>/ on GitHub
+// Pages, where a bare href="/" would leave it.
 const { page } = useData();
 
 const crumbs = computed(() => {
@@ -23,10 +25,10 @@ const crumbs = computed(() => {
 
 <template>
   <nav v-if="crumbs.length" aria-label="Breadcrumb" class="mylearn-crumbs">
-    <a href="/">Home</a>
+    <a :href="withBase('/')">Home</a>
     <template v-for="(crumb, i) in crumbs" :key="i">
       <span aria-hidden="true">&nbsp;/&nbsp;</span>
-      <a v-if="i < crumbs.length - 1" :href="crumb.link">{{ crumb.text }}</a>
+      <a v-if="i < crumbs.length - 1" :href="withBase(crumb.link)">{{ crumb.text }}</a>
       <span v-else aria-current="page">{{ crumb.text }}</span>
     </template>
   </nav>

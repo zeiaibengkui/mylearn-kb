@@ -1,9 +1,9 @@
-// Site sidebar walker — copied verbatim into a project's .vitepress/ by
-// `myLearn site setup`. Builds a nested sidebar straight from the disk tree:
+// Site sidebar walker. Builds a nested sidebar straight from the disk tree:
 //   problems/<category>/<title>/problem.md → link /problems/<category>/<title>/
 //   notes/… nestable freeform notes
-// Titles come from gray-matter `title` frontmatter (fallback: directory/file
-// name). No external deps — runs inside the VitePress config process.
+// Titles come from `title` frontmatter (fallback: directory/file name). No
+// external deps — runs inside the VitePress config process. The route/title
+// helpers are shared with the generated pages, see notes.ts.
 //
 // Folder behaviour: every group is emitted `collapsed: true` and VitePress
 // unfolds only the groups on the active page's path — the sidebar shows the
@@ -11,6 +11,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { readTitle, toRoute } from "./notes.ts";
 
 export interface SidebarItem {
     text: string;
@@ -123,31 +124,6 @@ export function buildSidebar(root: string): Record<string, SidebarItem[]> {
     return { "/": [...problems, ...notes] };
 }
 
-/** source file → route: index.md/problem.md resolve to their dir ("/x/y/") */
-function toRoute(root: string, file: string): string {
-    let rel = path.relative(root, file).replaceAll(path.sep, "/").replace(/\.md$/i, "");
-    let isDir = false;
-    for (const suffix of ["/index", "/problem"]) {
-        if (rel.endsWith(suffix)) {
-            rel = rel.slice(0, -suffix.length);
-            isDir = true;
-            break;
-        }
-    }
-    return "/" + rel + (isDir ? "/" : "");
-}
-
 function routeIsDir(root: string, file: string): boolean {
     return toRoute(root, file).endsWith("/");
-}
-
-function readTitle(file: string, fallback: string): string {
-    try {
-        const head = fs.readFileSync(file, "utf-8").slice(0, 400);
-        const m = /^title:\s*(.+)$/m.exec(head);
-        if (m) return m[1].trim().replace(/^["']|["']$/g, "");
-    } catch {
-        // unreadable file — fall back to the name
-    }
-    return fallback;
 }
