@@ -88,6 +88,8 @@ function notesItems(root: string, dir: string): SidebarItem[] {
             const bDir = fs.statSync(path.join(dir, b)).isDirectory();
             return Number(bDir) - Number(aDir) || a.localeCompare(b); // dirs first
         })
+        // dot dirs (.remember/ and friends) are scaffolding, not notes (notes.ts)
+        .filter((e) => !e.startsWith("."))
         .filter((e) => {
             const p = path.join(dir, e);
             try {
