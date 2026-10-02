@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789271810774,
+  "updatedAt": 1790923045005,
   "files": {
     "course/高二数学限时练/problem.md": {
       "mtimeMs": 1789228165240.1497,
@@ -793,6 +793,10 @@
       "mtimeMs": 1789228165210.3367,
       "hash": "1c6b64a4b1057bf63d6318e45667e136f64fbfc3ef05be12be69b5326a48fdc1"
     },
+    "luogu/P6117 [JOI 2019 Final] 硬币收藏 _ Coin Collecting/problem.md": {
+      "mtimeMs": 1789272624773.2983,
+      "hash": "99440c244ce2947830bae962f29af9c7052e7f60df37cd9377421883b8a4452d"
+    },
     "luogu/P6691 选择题/Explanation.md": {
       "mtimeMs": 1789228165220.5886,
       "hash": "94546cf7c34c35266ba9602755af6a3ad23eec2ec5370fe915916c6c33715f42"
@@ -870,12 +874,24 @@
       "hash": "73adb9c7ef36ac87f9ec1e06d379d55609a20822fbb177a8d732ec9a2e1388c4"
     },
     "luogu/P6691 选择题/problem.md": {
-      "mtimeMs": 1789228165224.2285,
+      "mtimeMs": 1790385136145.3755,
       "hash": "60203674007ed52a5584cb1189133b4956a4b405b689a195eb267681f3cb2d0a"
     },
     "luogu/P6691 选择题/sol.cpp": {
       "mtimeMs": 1788655453521.2979,
       "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
+    },
+    "notes/FFT/fft.cpp": {
+      "mtimeMs": 1790833110926.9414,
+      "hash": "cae6879a422a3842995b21de48d5c483e3c942cf4980ab0df72b8596656016b4"
+    },
+    "notes/FFT/fft.md": {
+      "mtimeMs": 1790828881845.6636,
+      "hash": "5fa4084175ac22b9ca7f2e212b570c5ff51a6de1d4406eed72d8a3d2ce1ed0c6"
+    },
+    "notes/FFT/p3803.md": {
+      "mtimeMs": 1790830513183.696,
+      "hash": "5767abce5175d2d444aa927083817b0f657be09c0ac17ce2c89d9e601ea5ec57"
     },
     "notes/ML/.remember/.gitignore": {
       "mtimeMs": 1788672088411.2434,
@@ -986,8 +1002,8 @@
       "hash": "7a135997020c7f109c11ff0c086d4fd4acf4574c40d0a48e7619fdf185ffacf3"
     },
     "notes/ML/1.0 History & Philosophy.md": {
-      "mtimeMs": 1789228165268.746,
-      "hash": "a88a69e844f0a12fd0e49a932fa643ab9b9465467ab72e2f891e90bf497f2779"
+      "mtimeMs": 1790909599741.2903,
+      "hash": "6e542118c3fb61181ce97fea3f67f8a9c74daf6e17260e15f33241818b527420"
     },
     "notes/ML/10.强化学习.md": {
       "mtimeMs": 1789228165269.9346,
@@ -1076,6 +1092,86 @@
     "notes/ML/高级技巧/降维.md": {
       "mtimeMs": 1789228165249.3145,
       "hash": "a82743dcd269e3f28aa349d6784221fe2520150fd24f311cb261395c9d85bb88"
+    },
+    "notes/old/2026年AI相关考试分析及反思.md": {
+      "mtimeMs": 1790910842011.6287,
+      "hash": "00c9a6752c540ab9e31349a83b3194e2ad00d8af37b8a4a698fc584ed9ad19fc"
+    },
+    "notes/old/CHANGELOG.md": {
+      "mtimeMs": 1790910842011.7034,
+      "hash": "568d9be1cb675bd8a51fe1a945512e5f5e80411ffa545c8d5e019019b673e91e"
+    },
+    "notes/old/I love decision trees.md": {
+      "mtimeMs": 1790910842011.856,
+      "hash": "7c9cf4c949b86d4c9dc7f7a75b0e3049aac70d3f2c754b278f3c618d8ee0139c"
+    },
+    "notes/old/_template.md": {
+      "mtimeMs": 1790910842011.9678,
+      "hash": "55527d557f499a1d43a7129acf6ee29e9b21f7835166f4d2eb6b52fa25e8c517"
+    },
+    "notes/old/bili.md": {
+      "mtimeMs": 1790910842011.668,
+      "hash": "85df9080321f1afe756ad94cbcd734b8e728366edaa9f610922a992e05e43167"
+    },
+    "notes/old/dp+单调队列.md": {
+      "mtimeMs": 1790910842011.7583,
+      "hash": "3ebf1ca3be126a33e3eee562956843b97c6f73b00fc3ca97b55a3c8ceda1a4c3"
+    },
+    "notes/old/general_information_storage_means.md": {
+      "mtimeMs": 1790910842011.7908,
+      "hash": "9fcfcd1aa08226797691065f9657b22181686ea95562a6a0e55beba757818084"
+    },
+    "notes/old/graph.md": {
+      "mtimeMs": 1790910842011.8232,
+      "hash": "f5b5811f8b25c71833c66883e670f94c6e785370653bded3febdb4821dfed3c6"
+    },
+    "notes/old/markdown-tutor.md": {
+      "mtimeMs": 1790910842011.8845,
+      "hash": "dbf840f8b5b926acd555ffbb3de75ca5c22faa7221cef60bb946cf0f0a413a29"
+    },
+    "notes/old/selfref.md": {
+      "mtimeMs": 1790910842011.9355,
+      "hash": "62ad68d39f1dc01c651affeeae4bb47e53b9c0f890855f47d00d3486a41c6389"
+    },
+    "notes/old/why-am-not-i-born-to-be-rich.md": {
+      "mtimeMs": 1790910842012.0012,
+      "hash": "16559deb0b3b2d3b3c477d35861a13258bd0eb6618fa72b822a34ffa61713ff6"
+    },
+    "notes/old/yjr_meeting_notes.md": {
+      "mtimeMs": 1790910842012.0347,
+      "hash": "7c5f874afa6659a1de0291f33c7a580261892a530aff473ef6370771ff4b7327"
+    },
+    "notes/old/中国城镇住房-教育复合体中的代际财富转移：一个准国债分析框架.md": {
+      "mtimeMs": 1790910842012.07,
+      "hash": "e18256d40190cc3530995d8aaf641e89d0b49abf0bbc8a3b82e80f181f15c05b"
+    },
+    "notes/old/二项式反演.md": {
+      "mtimeMs": 1790910842012.098,
+      "hash": "bcb14797018f114a14371cba947efe974d288c29f0e59bf057165cfd6bcbda17"
+    },
+    "notes/old/各种排序算法.md": {
+      "mtimeMs": 1790910842012.1243,
+      "hash": "3eab21edff2f216f4e3ee42ce84c285b0eebef2021e30907e48a16e03721f3c5"
+    },
+    "notes/old/平衡树.md": {
+      "mtimeMs": 1790910842012.1504,
+      "hash": "989885350e66ac791f76caaf92f50c7765d9bdf0e36cd6d5a97cbc84f9adec8a"
+    },
+    "notes/old/数论.md": {
+      "mtimeMs": 1790910842012.179,
+      "hash": "98e8b67c8180a82b02c3da008854da5e6b745d88e1ac19c57f2c0f7c54a1ff83"
+    },
+    "notes/old/检讨.md": {
+      "mtimeMs": 1790910842012.2034,
+      "hash": "c2d72380279d9a81ba29f9034625cd7385ce2570ff84187ed236c05b16e00a46"
+    },
+    "notes/old/约化质量,资用能.md": {
+      "mtimeMs": 1790910842012.233,
+      "hash": "466e35243508934702cea3273a775b1dd506e8bd3f8837121b67769ab57839b1"
+    },
+    "notes/old/网络流.md": {
+      "mtimeMs": 1790910842012.2607,
+      "hash": "1c7f6b5f8ab7663dd86348fd1ea454eb9eaf07296ef5b316e27a2a673082cc42"
     }
   }
 }
