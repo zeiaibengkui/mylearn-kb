@@ -1,9 +1,10 @@
 <script setup lang="ts">
 // Draws the ```mermaid blocks (../markdown.ts ships them as
-// `<pre class="mermaid">`). mermaid is ~1 MB, so it is dynamically imported,
-// and only by pages that actually carry a diagram — the same trick as the
-// relation graph's cytoscape. Until it arrives — and if it never does — the
-// reader sees the diagram source, which is the graceful half of the trade.
+// `<pre class="mermaid">`). mermaid is a multi-MB library, so it is fetched
+// from the CDN on demand (./vendor.ts) — and only by pages that actually carry
+// a diagram, the same trick as the relation graph's cytoscape. Until it arrives
+// — and if the CDN is unreachable — the reader sees the diagram source, which
+// is the graceful half of the trade.
 //
 // Re-drawing (dark mode, or a second visit to the page) starts from that
 // source: mermaid replaces the element's content with its SVG and marks it
@@ -11,6 +12,7 @@
 // pass and restored before every later one.
 import { nextTick, onMounted, watch } from "vue";
 import { useData, useRouter } from "vitepress";
+import { MERMAID_URL } from "./vendor.ts";
 
 const { isDark } = useData();
 const router = useRouter();
@@ -22,9 +24,9 @@ async function draw(): Promise<void> {
     const blocks = [...document.querySelectorAll<HTMLElement>("pre.mermaid")];
     if (!blocks.length) return;
     try {
-        mermaid ??= (await import("mermaid")).default;
+        mermaid ??= (await import(/* @vite-ignore */ MERMAID_URL)).default;
     } catch {
-        unavailable = true; // offline build: the source stays on the page
+        unavailable = true; // CDN unreachable: the source stays on the page
     }
     if (unavailable || !mermaid) return;
 

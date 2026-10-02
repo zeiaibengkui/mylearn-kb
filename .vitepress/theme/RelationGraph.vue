@@ -1,14 +1,15 @@
 <script setup lang="ts">
 // Relation graph (../graph.data.ts) drawn with Cytoscape.
 //
-// Cytoscape is dynamically imported on mount, so it never runs during SSR and
-// never enters the shared page bundle — only the /graph page pulls its chunk,
+// Cytoscape is fetched from the CDN on mount (./vendor.ts), so it never runs
+// during SSR and never enters any bundle — only the /graph page fetches it,
 // once the container is on screen. Wheel zoom is off on purpose: the canvas
 // sits in a scrolling document, so zooming is on the buttons instead.
 import { onBeforeUnmount, onMounted, ref, watch } from "vue";
 import { useData, withBase } from "vitepress";
 import type { Core, ElementDefinition, Stylesheet } from "cytoscape";
 import { data } from "../graph.data";
+import { CYTOSCAPE_URL } from "./vendor.ts";
 
 const host = ref<HTMLElement | null>(null);
 const { isDark } = useData();
@@ -131,9 +132,9 @@ async function mount() {
     if (!host.value) return;
     let cytoscape;
     try {
-        cytoscape = (await import("cytoscape")).default;
+        cytoscape = (await import(/* @vite-ignore */ CYTOSCAPE_URL)).default;
     } catch {
-        failed.value = true; // offline/CDN-less build — the page still renders
+        failed.value = true; // CDN unreachable — the page still renders
         return;
     }
     styles = buildStyles(palette());

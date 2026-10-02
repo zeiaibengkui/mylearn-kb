@@ -7,7 +7,7 @@
 // them import them directly — see /timeline.md and /graph.md. Mermaid *is*
 // mounted here (every page may carry a diagram, and a page cannot import a
 // component without a <script setup> block) but stays cheap: the component is
-// tiny and pulls mermaid itself in lazily.
+// tiny, and it fetches mermaid itself only when a page actually has a diagram.
 
 import { defineComponent, h } from "vue";
 import DefaultTheme from "vitepress/theme";
