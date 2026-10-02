@@ -53,7 +53,8 @@ function routeFor(rel: string): string {
 
 /** copy every non-markdown file under problems/ into the output, so hosted
  *  pages keep the solution sources / PDFs downloadable (VitePress copies only
- *  .vitepress/public/, and md-only files are handled by the page scan) */
+ *  <srcDir>/public/ — the favicon lives there — and md-only files are handled
+ *  by the page scan) */
 function mirrorSources(root: string, dir: string, outDir: string): void {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
         const src = path.join(dir, entry.name);
@@ -102,6 +103,13 @@ export default defineConfig({
     lang: process.env.MYLEARN_LANG ?? "en-US",
     title: siteName,
     description: siteDescription,
+    // the tab icon, when the KB ships one (public/favicon.ico — the old
+    // blog's mark here; a cloned scaffold has none, hence the guard).
+    // Browsers ask the base root for /favicon.ico on their own; the explicit
+    // link makes it work under a sub-path base too.
+    head: fs.existsSync("public/favicon.ico")
+        ? [["link", { rel: "icon", href: `${base().replace(/\/+$/, "")}/favicon.ico` }]]
+        : [],
     markdown: {
         math: true, // $…$ / $$…$$ via markdown-it-mathjax3
         config: configureMarkdown, // space-padded math + ```mermaid blocks
