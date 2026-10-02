@@ -11,3 +11,43 @@
 .mylearn-giscus {
     margin-top: 2rem;
 }
+
+/* ```mermaid blocks. Not wrapped in VitePress's `language-*` div (see
+   .vitepress/markdown.ts), so the box is ours — and it is what the reader sees
+   before Mermaid.vue draws, or instead of it when the library never loads. */
+.vp-doc pre.mermaid {
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background: var(--vp-c-bg-soft);
+    overflow-x: auto;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+/* drawn: the diagram brings its own box, so drop the source's */
+.vp-doc pre.mermaid[data-processed] {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.vp-doc pre.mermaid svg {
+    max-width: 100%;
+    height: auto;
+    /* mermaid paints a theme background onto the svg; the page's own is wanted */
+    background: transparent !important;
+}
+
+/* a diagram mermaid could not parse keeps its source, with the reason */
+.vp-doc pre.mermaid[data-error] {
+    border-color: var(--vp-c-danger-1);
+}
+
+.vp-doc pre.mermaid[data-error]::after {
+    content: attr(data-error);
+    display: block;
+    margin-top: 0.5rem;
+    color: var(--vp-c-danger-1);
+    font-size: 0.8rem;
+}

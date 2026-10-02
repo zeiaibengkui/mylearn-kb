@@ -17,6 +17,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { buildSidebar } from "./sidebar.ts";
 import { giscusConfig, type GiscusConfig } from "./giscus.ts";
+import { configureMarkdown } from "./markdown.ts";
 
 // SEO extras are opt-in: MYLEARN_SITE_URL (canonical origin, e.g.
 // https://chunl.ai) enables canonical/og tags + sitemap + robots; the lang
@@ -103,6 +104,7 @@ export default defineConfig({
     description: siteDescription,
     markdown: {
         math: true, // $…$ / $$…$$ via markdown-it-mathjax3
+        config: configureMarkdown, // space-padded math + ```mermaid blocks
     },
     cleanUrls: true,
     // .mylearn/ (project config + snapshot) is not content; the scaffolded
