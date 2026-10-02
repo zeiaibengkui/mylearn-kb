@@ -30,9 +30,11 @@ jobs:
       - run: pnpm install
       - name: Build the site
         env:
-          # repo sites are served under /<repo>/, user sites (<user>.github.io)
-          # are normalized to "/" by the VitePress config
-          MYLEARN_BASE: /${{ github.event.repository.name }}/
+          # this site is served from the custom domain's root (chunl.ai), so
+          # the base is "/" — repo sites served under /<repo>/ would set
+          # /${{ github.event.repository.name }}/ here instead (and
+          # <user>.github.io names are normalized to "/" by the config)
+          MYLEARN_BASE: /
           # canonical origin + <html lang>: enable og/canonical/sitemap/robots
           # (the custom domain chunl.ai is used at both alias hosts)
           MYLEARN_SITE_URL: https://chunl.ai
