@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790923045005,
+  "updatedAt": 1791163414652,
   "files": {
     "course/高二数学限时练/problem.md": {
       "mtimeMs": 1789228165240.1497,
@@ -188,6 +188,30 @@
     "luogu/AT_dp_v Subtree/sol_AT_dp_v.cpp": {
       "mtimeMs": 1788660702355.524,
       "hash": "700c9473ab026535a3caf03efccc25714bda63fe55f02d4a17beb36e3778cafa"
+    },
+    "luogu/CF600E Lomsat gelral/DSUonTree.cpp": {
+      "mtimeMs": 1791078768378.653,
+      "hash": "e4a168f84e6f2e632f43e699d7d910e459fa9772ff138510e6bdd6e727b4d0c8"
+    },
+    "luogu/CF600E Lomsat gelral/in": {
+      "mtimeMs": 1791078224380.3057,
+      "hash": "5378d8eb07748474790090fadad3a267ad08a92d4389ac6cd65e348bfb5bdf82"
+    },
+    "luogu/CF600E Lomsat gelral/problem.md": {
+      "mtimeMs": 1791074749766.2993,
+      "hash": "d1a03a538c69b4838fa8a77594c61f842b7afeeac23743f2e5cd991c14ecba4f"
+    },
+    "luogu/FFT/fft.cpp": {
+      "mtimeMs": 1790833110926.9414,
+      "hash": "cae6879a422a3842995b21de48d5c483e3c942cf4980ab0df72b8596656016b4"
+    },
+    "luogu/FFT/fft.md": {
+      "mtimeMs": 1791127200029.226,
+      "hash": "a8e11318db4e9ecbf651123cab9ff93fa50df1366e2b2373da24549cb9e64df4"
+    },
+    "luogu/FFT/p3803.md": {
+      "mtimeMs": 1790830513183.696,
+      "hash": "5767abce5175d2d444aa927083817b0f657be09c0ac17ce2c89d9e601ea5ec57"
     },
     "luogu/P1002 [NOIP 2002 普及组] 过河卒/Solution sol.md": {
       "mtimeMs": 1789268516938.6675,
@@ -448,6 +472,14 @@
     "luogu/P1792 [国家集训队] 种树/sol_mcmf.cpp": {
       "mtimeMs": 1789269969837.366,
       "hash": "c0b6e1d23bdbfc772209b216ae1e1669f2474a76ffe65ea76378c8ff607981b3"
+    },
+    "luogu/P1967 [NOIP 2013 提高组] 货车运输/kruskal_lca.cpp": {
+      "mtimeMs": 1791084802522.472,
+      "hash": "002aff2e360f139ccf51acc9de963feb55a914455c15a7c0343fccbe6dd3b1e8"
+    },
+    "luogu/P1967 [NOIP 2013 提高组] 货车运输/problem.md": {
+      "mtimeMs": 1791080793519.3464,
+      "hash": "4a84faad10318df9eb11640e0856baa7fa1e54f9a0ca1d959349bfb46292287f"
     },
     "luogu/P2014 CTSC1997 选课/Solution sol.md": {
       "mtimeMs": 1789268518128.7708,
@@ -713,6 +745,10 @@
       "mtimeMs": 1789268265577.2136,
       "hash": "8367dcf3f90c4313fd4e777f8fd44af76e9c680bc4dc48a591b66d1d959e1a42"
     },
+    "luogu/P4606 SDOI2018 战略游戏/problem.md": {
+      "mtimeMs": 1791163366165.053,
+      "hash": "ad8e944d4c6b6fd9d29c5a30e7a8f8d1e1e811ceb5bf0a8c778deb5118d025da"
+    },
     "luogu/P5985 [PA 2019] Muzyka pop/Solution p5985-muzyka-pop.md": {
       "mtimeMs": 1789228165208.4893,
       "hash": "b44ec93d6b5afca21330fa15bdf6d181576507f50d5af8374ad02aeeb89e9060"
@@ -881,17 +917,17 @@
       "mtimeMs": 1788655453521.2979,
       "hash": "c19f8f80ec5e713854962a8f4c4a021ebf52adbf873d404b7a0723d9fcbc4d01"
     },
-    "notes/FFT/fft.cpp": {
-      "mtimeMs": 1790833110926.9414,
-      "hash": "cae6879a422a3842995b21de48d5c483e3c942cf4980ab0df72b8596656016b4"
+    "luogu/P9233 [蓝桥杯 2023 省 A] 颜色平衡树/DSU.cpp": {
+      "mtimeMs": 1791080400890.545,
+      "hash": "896e8b57740cf0c094d12cad1b3ca76681fdd65ab57a14edbcf843f7e102f466"
     },
-    "notes/FFT/fft.md": {
-      "mtimeMs": 1790828881845.6636,
-      "hash": "5fa4084175ac22b9ca7f2e212b570c5ff51a6de1d4406eed72d8a3d2ce1ed0c6"
+    "luogu/P9233 [蓝桥杯 2023 省 A] 颜色平衡树/in": {
+      "mtimeMs": 1791080047621.7515,
+      "hash": "375e069a0f20620b8b5709be8c15d5c2f5229293cca94cc292ee2282a1f8eae0"
     },
-    "notes/FFT/p3803.md": {
-      "mtimeMs": 1790830513183.696,
-      "hash": "5767abce5175d2d444aa927083817b0f657be09c0ac17ce2c89d9e601ea5ec57"
+    "luogu/P9233 [蓝桥杯 2023 省 A] 颜色平衡树/problem.md": {
+      "mtimeMs": 1791078886704.8508,
+      "hash": "333e5fdc0db7cd8a3a332c14e7430e88354499a0f192c9448cb8f6ca6d78c211"
     },
     "notes/ML/.remember/.gitignore": {
       "mtimeMs": 1788672088411.2434,
@@ -1041,6 +1077,10 @@
       "mtimeMs": 1789228165283.028,
       "hash": "012662459fb80cc78ab249f10735cc94adacafb14dcaf48ea9ac912f53ca7f84"
     },
+    "notes/ML/I love decision trees.md": {
+      "mtimeMs": 1790910842011.856,
+      "hash": "7c9cf4c949b86d4c9dc7f7a75b0e3049aac70d3f2c754b278f3c618d8ee0139c"
+    },
     "notes/ML/index.md": {
       "mtimeMs": 1789229249446.581,
       "hash": "8b6ae756f0d816d884bb85006279876f12b2c6563adecf83939c8751b9b53f14"
@@ -1093,85 +1133,85 @@
       "mtimeMs": 1789228165249.3145,
       "hash": "a82743dcd269e3f28aa349d6784221fe2520150fd24f311cb261395c9d85bb88"
     },
-    "notes/old/2026年AI相关考试分析及反思.md": {
-      "mtimeMs": 1790910842011.6287,
-      "hash": "00c9a6752c540ab9e31349a83b3194e2ad00d8af37b8a4a698fc584ed9ad19fc"
-    },
-    "notes/old/CHANGELOG.md": {
-      "mtimeMs": 1790910842011.7034,
-      "hash": "568d9be1cb675bd8a51fe1a945512e5f5e80411ffa545c8d5e019019b673e91e"
-    },
-    "notes/old/I love decision trees.md": {
-      "mtimeMs": 1790910842011.856,
-      "hash": "7c9cf4c949b86d4c9dc7f7a75b0e3049aac70d3f2c754b278f3c618d8ee0139c"
-    },
-    "notes/old/_template.md": {
-      "mtimeMs": 1790910842011.9678,
-      "hash": "55527d557f499a1d43a7129acf6ee29e9b21f7835166f4d2eb6b52fa25e8c517"
-    },
-    "notes/old/bili.md": {
-      "mtimeMs": 1790910842011.668,
-      "hash": "85df9080321f1afe756ad94cbcd734b8e728366edaa9f610922a992e05e43167"
-    },
-    "notes/old/dp+单调队列.md": {
-      "mtimeMs": 1790910842011.7583,
-      "hash": "3ebf1ca3be126a33e3eee562956843b97c6f73b00fc3ca97b55a3c8ceda1a4c3"
-    },
-    "notes/old/general_information_storage_means.md": {
-      "mtimeMs": 1790910842011.7908,
-      "hash": "9fcfcd1aa08226797691065f9657b22181686ea95562a6a0e55beba757818084"
-    },
-    "notes/old/graph.md": {
+    "notes/OI/图论/graph.md": {
       "mtimeMs": 1790910842011.8232,
       "hash": "f5b5811f8b25c71833c66883e670f94c6e785370653bded3febdb4821dfed3c6"
     },
-    "notes/old/markdown-tutor.md": {
-      "mtimeMs": 1790910842011.8845,
-      "hash": "dbf840f8b5b926acd555ffbb3de75ca5c22faa7221cef60bb946cf0f0a413a29"
+    "notes/OI/图论/网络流.md": {
+      "mtimeMs": 1790910842012.2607,
+      "hash": "1c7f6b5f8ab7663dd86348fd1ea454eb9eaf07296ef5b316e27a2a673082cc42"
     },
-    "notes/old/selfref.md": {
-      "mtimeMs": 1790910842011.9355,
-      "hash": "62ad68d39f1dc01c651affeeae4bb47e53b9c0f890855f47d00d3486a41c6389"
-    },
-    "notes/old/why-am-not-i-born-to-be-rich.md": {
-      "mtimeMs": 1790910842012.0012,
-      "hash": "16559deb0b3b2d3b3c477d35861a13258bd0eb6618fa72b822a34ffa61713ff6"
-    },
-    "notes/old/yjr_meeting_notes.md": {
-      "mtimeMs": 1790910842012.0347,
-      "hash": "7c5f874afa6659a1de0291f33c7a580261892a530aff473ef6370771ff4b7327"
-    },
-    "notes/old/中国城镇住房-教育复合体中的代际财富转移：一个准国债分析框架.md": {
-      "mtimeMs": 1790910842012.07,
-      "hash": "e18256d40190cc3530995d8aaf641e89d0b49abf0bbc8a3b82e80f181f15c05b"
-    },
-    "notes/old/二项式反演.md": {
+    "notes/OI/数学/二项式反演.md": {
       "mtimeMs": 1790910842012.098,
       "hash": "bcb14797018f114a14371cba947efe974d288c29f0e59bf057165cfd6bcbda17"
     },
-    "notes/old/各种排序算法.md": {
-      "mtimeMs": 1790910842012.1243,
-      "hash": "3eab21edff2f216f4e3ee42ce84c285b0eebef2021e30907e48a16e03721f3c5"
-    },
-    "notes/old/平衡树.md": {
-      "mtimeMs": 1790910842012.1504,
-      "hash": "989885350e66ac791f76caaf92f50c7765d9bdf0e36cd6d5a97cbc84f9adec8a"
-    },
-    "notes/old/数论.md": {
+    "notes/OI/数学/数论.md": {
       "mtimeMs": 1790910842012.179,
       "hash": "98e8b67c8180a82b02c3da008854da5e6b745d88e1ac19c57f2c0f7c54a1ff83"
     },
-    "notes/old/检讨.md": {
+    "notes/OI/数据结构/dp+单调队列.md": {
+      "mtimeMs": 1790910842011.7583,
+      "hash": "3ebf1ca3be126a33e3eee562956843b97c6f73b00fc3ca97b55a3c8ceda1a4c3"
+    },
+    "notes/OI/数据结构/各种排序算法.md": {
+      "mtimeMs": 1790910842012.1243,
+      "hash": "3eab21edff2f216f4e3ee42ce84c285b0eebef2021e30907e48a16e03721f3c5"
+    },
+    "notes/OI/数据结构/平衡树.md": {
+      "mtimeMs": 1790910842012.1504,
+      "hash": "989885350e66ac791f76caaf92f50c7765d9bdf0e36cd6d5a97cbc84f9adec8a"
+    },
+    "notes/others/2026年AI相关考试分析及反思.md": {
+      "mtimeMs": 1790910842011.6287,
+      "hash": "00c9a6752c540ab9e31349a83b3194e2ad00d8af37b8a4a698fc584ed9ad19fc"
+    },
+    "notes/others/CHANGELOG.md": {
+      "mtimeMs": 1790910842011.7034,
+      "hash": "568d9be1cb675bd8a51fe1a945512e5f5e80411ffa545c8d5e019019b673e91e"
+    },
+    "notes/others/bili.md": {
+      "mtimeMs": 1790910842011.668,
+      "hash": "85df9080321f1afe756ad94cbcd734b8e728366edaa9f610922a992e05e43167"
+    },
+    "notes/others/llx-review.md": {
+      "mtimeMs": 1791127157357.3005,
+      "hash": "ce4dd4179ba8840f38f0c9d322d634bd4ea64e471d36a83ebb48b637c77cc5d4"
+    },
+    "notes/others/reverse-or-natural-scroll.md": {
+      "mtimeMs": 1791128349327.4746,
+      "hash": "80d289161feafd16af786612d26a7ff2fd5c89d6bd36f6dd5ad27071a3629fb0"
+    },
+    "notes/others/selfref.md": {
+      "mtimeMs": 1790910842011.9355,
+      "hash": "62ad68d39f1dc01c651affeeae4bb47e53b9c0f890855f47d00d3486a41c6389"
+    },
+    "notes/others/why-am-not-i-born-to-be-rich.md": {
+      "mtimeMs": 1790910842012.0012,
+      "hash": "16559deb0b3b2d3b3c477d35861a13258bd0eb6618fa72b822a34ffa61713ff6"
+    },
+    "notes/others/中国城镇住房-教育复合体中的代际财富转移：一个准国债分析框架.md": {
+      "mtimeMs": 1790910842012.07,
+      "hash": "e18256d40190cc3530995d8aaf641e89d0b49abf0bbc8a3b82e80f181f15c05b"
+    },
+    "notes/others/方法/general_information_storage_means.md": {
+      "mtimeMs": 1790910842011.7908,
+      "hash": "9fcfcd1aa08226797691065f9657b22181686ea95562a6a0e55beba757818084"
+    },
+    "notes/others/方法/markdown-tutor.md": {
+      "mtimeMs": 1790910842011.8845,
+      "hash": "dbf840f8b5b926acd555ffbb3de75ca5c22faa7221cef60bb946cf0f0a413a29"
+    },
+    "notes/others/方法/yjr_meeting_notes.md": {
+      "mtimeMs": 1790910842012.0347,
+      "hash": "7c5f874afa6659a1de0291f33c7a580261892a530aff473ef6370771ff4b7327"
+    },
+    "notes/others/检讨.md": {
       "mtimeMs": 1790910842012.2034,
       "hash": "c2d72380279d9a81ba29f9034625cd7385ce2570ff84187ed236c05b16e00a46"
     },
-    "notes/old/约化质量,资用能.md": {
+    "notes/文化课/物理/约化质量,资用能.md": {
       "mtimeMs": 1790910842012.233,
       "hash": "466e35243508934702cea3273a775b1dd506e8bd3f8837121b67769ab57839b1"
-    },
-    "notes/old/网络流.md": {
-      "mtimeMs": 1790910842012.2607,
-      "hash": "1c7f6b5f8ab7663dd86348fd1ea454eb9eaf07296ef5b316e27a2a673082cc42"
     }
   }
 }
