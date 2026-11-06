@@ -7,7 +7,7 @@ int h[N], d, n, dp[N], pre[N];
 #define rep(i, a, b) for (int i = (a); i <= (b); i++)
 
 struct node {
-    int val, idx;
+    int val = 0, idx = 0;
     node merge(node b) const {
         if (b.val > val) {
             return b;
@@ -52,7 +52,7 @@ struct Segtree {
 };
 
 signed main() {
-    // freopen("in", "r", stdin);
+    freopen("in", "r", stdin);
     cin >> n >> d;
     vector<int> tmp(n);
     Segtree T;
