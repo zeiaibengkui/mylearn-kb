@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Chunlai Li
   text: Algorithmic problem solving × machine learning
-  tagline: A personal knowledge base — problems, notes, and essays, all in markdown.
+  tagline: A personal knowledge base — problems, notes, and essays
   actions:
     - theme: brand
       text: Timeline
@@ -25,9 +25,6 @@ learning from the ground up. This site is where both accumulate.
 
 ## What's here
 
-Every page is a plain markdown file in a single repository — no CMS, no
-database:
-
 - **Problem notes** — mostly [Luogu](https://www.luogu.com.cn) problems, each
   with the statement and C++ solutions validated against the samples before
   they were saved;
@@ -35,10 +32,7 @@ database:
   theory, and friends;
 - **Machine learning notes** — [my study notes](notes/ML/index.md), from the
   math basics up to Transformers and reinforcement learning;
-- **Essays and miscellany** — 杂谈, whatever I feel like writing down.
-
-Two generated pages read the whole tree: the [Timeline](/timeline) lists every
-note by date, and the [Graph](/graph) draws which notes reference each other.
+- **Essays and miscellany** — whatever I feel like writing down.
 
 ## Find me
 
