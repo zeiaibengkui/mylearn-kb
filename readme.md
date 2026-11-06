@@ -38,3 +38,10 @@ learning from the ground up. This site is where both accumulate.
 
 [github.com/zeiaibengkui](https://github.com/zeiaibengkui) — code, and the
 source everything here is built from.
+
+## How is this site built?
+
+In short, the articles are written in Markdown and published on Github Pages
+through VitePress.
+
+You can view the source code [here](https://github.com/zeiaibengkui/mylearn-kb)
